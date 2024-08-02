@@ -14,13 +14,11 @@ use parquet::{
     file::properties::WriterProperties,
 };
 use std::{
-    collections::HashSet,
-    fs::{self, File},
+    fs::File,
     io::{BufRead, BufReader},
     path::PathBuf,
     sync::Arc,
 };
-use url::Url;
 use walkdir::{DirEntry, WalkDir};
 
 // Converts `Vec<LoteBuilder>` into `StructArray`
@@ -36,7 +34,7 @@ struct OscarBuilder {
     identified_doc_lang: StringBuilder,
     identified_doc_prob: Float32Builder,
 
-    sentence_langs: ListBuilder<StringBuilder>,
+    sentences_langs: ListBuilder<StringBuilder>,
     sentences_probs: ListBuilder<Float32Builder>,
 
     warc_identified_content_language: ListBuilder<StringBuilder>,
@@ -71,15 +69,15 @@ impl OscarBuilder {
         self.identified_doc_prob
             .append_value(document.metadata.identification.prob);
 
-        let mut sentece_langs: Vec<Option<String>> = vec![];
+        let mut senteces_langs: Vec<Option<String>> = vec![];
         let mut sentences_probs: Vec<Option<f32>> = vec![];
 
         for sentence in document.metadata.sentence_identifications.iter() {
-            sentece_langs.push(sentence.as_ref().map(|s| s.label.clone()));
+            senteces_langs.push(sentence.as_ref().map(|s| s.label.clone()));
             sentences_probs.push(sentence.as_ref().map(|s| s.prob));
         }
 
-        self.sentence_langs.append_value(sentece_langs);
+        self.sentences_langs.append_value(senteces_langs);
         self.sentences_probs.append_value(sentences_probs);
 
         let id_langs: Option<Vec<Option<String>>> = document
@@ -143,17 +141,16 @@ impl OscarBuilder {
         let identified_doc_prob_field =
             Arc::new(Field::new("identified_doc_prob", DataType::Float32, false));
 
-        let sentence_langs = Arc::new(self.sentence_langs.finish()) as ArrayRef;
-        let sentece_langs_value_field = Arc::new(Field::new("item", DataType::Utf8, true));
-        let sentence_langs_field = Arc::new(Field::new(
+        let sentences_langs = Arc::new(self.sentences_langs.finish()) as ArrayRef;
+        let senteces_langs_value_field = Arc::new(Field::new("item", DataType::Utf8, true));
+        let sentences_langs_field = Arc::new(Field::new(
             "sentence_langs",
-            DataType::List(sentece_langs_value_field),
+            DataType::List(senteces_langs_value_field),
             true,
         ));
 
         let sentences_probs = Arc::new(self.sentences_probs.finish()) as ArrayRef;
-        let sentences_probs_value_field =
-            Arc::new(Field::new("sentences_probs", DataType::Float32, true));
+        let sentences_probs_value_field = Arc::new(Field::new("item", DataType::Float32, true));
         let sentences_probs_field = Arc::new(Field::new(
             "sentences_probs",
             DataType::List(sentences_probs_value_field),
@@ -213,7 +210,7 @@ impl OscarBuilder {
             (content_field, content),
             (identified_doc_lang_field, identified_doc_lang),
             (identified_doc_prob_field, identified_doc_prob),
-            (sentence_langs_field, sentence_langs),
+            (sentences_langs_field, sentences_langs),
             (sentences_probs_field, sentences_probs),
             (
                 warc_identified_content_language_field,
@@ -246,41 +243,40 @@ fn rows_to_batch(rows: &[Document]) -> RecordBatch {
 
 async fn process_file(file: DirEntry, dst: PathBuf) {
     // Create the output file
-    // let mut path = PathBuf::new();
-    // path.push(dst);
-    // let lang = {
-    //     let aux = file
-    //         .file_name()
-    //         .to_str()
-    //         .unwrap()
-    //         .strip_suffix("_meta.jsonl")
-    //         .unwrap();
-    //     if aux.chars().count() == 2 {
-    //         match Language::from_639_1(aux) {
-    //             Some(lang) => lang.to_639_3(),
-    //             None => {
-    //                 eprintln!("Could not parse language: {}", aux);
-    //                 return;
-    //             }
-    //         }
-    //     } else {
-    //         aux
-    //     }
-    // };
-    // path.push(format!("{}.parquet", lang));
-    // let parquet_path = path.clone();
-    // let parquet = File::create(path).unwrap();
+    let mut path = PathBuf::new();
+    path.push(dst);
+    let lang = {
+        let aux = file
+            .file_name()
+            .to_str()
+            .unwrap()
+            .strip_suffix("_meta.jsonl")
+            .unwrap();
+        if aux.chars().count() == 2 {
+            match Language::from_639_1(aux) {
+                Some(lang) => lang.to_639_3(),
+                None => {
+                    eprintln!("Could not parse language: {}", aux);
+                    return;
+                }
+            }
+        } else {
+            aux
+        }
+    };
+    path.push(format!("{}.parquet", lang));
+    let parquet = File::create(path).unwrap();
 
-    // let properties = WriterProperties::builder()
-    //     .set_compression(Compression::ZSTD(ZstdLevel::try_new(3).unwrap()))
-    //     .build();
+    let properties = WriterProperties::builder()
+        .set_compression(Compression::ZSTD(ZstdLevel::try_new(3).unwrap()))
+        .build();
 
-    // let mut aux_builder = LoteBuilder::default();
-    // let aux_records = RecordBatch::from(&aux_builder.finish());
+    let mut aux_builder = OscarBuilder::default();
+    let aux_records = RecordBatch::from(&aux_builder.finish());
 
-    // let mut writer = ArrowWriter::try_new(parquet, aux_records.schema(), Some(properties)).unwrap();
+    let mut writer = ArrowWriter::try_new(parquet, aux_records.schema(), Some(properties)).unwrap();
 
-    // let mut records: Vec<Lote> = vec![];
+    let mut records: Vec<Document> = vec![];
 
     let jsonl = {
         let file = File::open(file.path()).unwrap();
@@ -292,8 +288,15 @@ async fn process_file(file: DirEntry, dst: PathBuf) {
     for line in jsonl.lines() {
         let line = line.unwrap();
         let document: Document = serde_json::from_str(&line).unwrap();
-        println!("{:?}", document);
+        records.push(document);
     }
+    let batch = rows_to_batch(&records);
+    writer.write(&batch).expect("Writing batch");
+    writer.close().unwrap();
+    println!(
+        "Finished processing file: {}",
+        file.file_name().to_str().unwrap(),
+    );
 }
 
 pub async fn convert_to_parquet(src: &PathBuf, dst: &PathBuf) {
