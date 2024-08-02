@@ -11,8 +11,8 @@ pub struct Cli {
 
 #[derive(Subcommand)]
 pub enum Commands {
-    /// Extract the LOTE URLs from the OSCAR jsonl files
-    Lote {
+    /// Convert the OSCAR jsonl files to flat parquet files
+    ConvertToParquet {
         /// Folder containing the indices
         #[arg(value_name = "INPUT FOLDER")]
         src: PathBuf,

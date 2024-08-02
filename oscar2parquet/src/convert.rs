@@ -7,7 +7,6 @@ use arrow::{
     datatypes::{DataType, Field},
 };
 use futures::{stream, StreamExt};
-use isolang::Language;
 use parquet::{
     arrow::ArrowWriter,
     basic::{Compression, ZstdLevel},
@@ -241,40 +240,35 @@ fn rows_to_batch(rows: &[Document]) -> RecordBatch {
     RecordBatch::from(&builder.finish())
 }
 
-async fn process_file(file: DirEntry, dst: PathBuf) {
-    // Create the output file
-    let mut path = PathBuf::new();
-    path.push(dst);
-    let lang = {
-        let aux = file
-            .file_name()
-            .to_str()
-            .unwrap()
-            .strip_suffix("_meta.jsonl")
-            .unwrap();
-        if aux.chars().count() == 2 {
-            match Language::from_639_1(aux) {
-                Some(lang) => lang.to_639_3(),
-                None => {
-                    eprintln!("Could not parse language: {}", aux);
-                    return;
-                }
-            }
-        } else {
-            aux
-        }
-    };
-    path.push(format!("{}.parquet", lang));
+fn write_to_parquet(batch: RecordBatch, folder_path: &PathBuf, lang: &str, part: usize) {
+    let mut path = folder_path.clone();
+    path.push(format!("{}_part_{}.parquet", lang, part));
     let parquet = File::create(path).unwrap();
 
     let properties = WriterProperties::builder()
         .set_compression(Compression::ZSTD(ZstdLevel::try_new(3).unwrap()))
         .build();
 
-    let mut aux_builder = OscarBuilder::default();
-    let aux_records = RecordBatch::from(&aux_builder.finish());
+    let mut writer = ArrowWriter::try_new(parquet, batch.schema(), Some(properties)).unwrap();
+    writer.write(&batch).expect("Writing batch");
+    writer.close().unwrap();
+}
 
-    let mut writer = ArrowWriter::try_new(parquet, aux_records.schema(), Some(properties)).unwrap();
+async fn process_file(file: DirEntry, dst: PathBuf) {
+    // Create the output folder if it does not exist
+    let mut folder_path = PathBuf::new();
+    folder_path.push(dst);
+    let lang = file
+        .file_name()
+        .to_str()
+        .unwrap()
+        .strip_suffix("_meta.jsonl")
+        .unwrap();
+    folder_path.push(lang);
+
+    if !folder_path.exists() {
+        std::fs::create_dir_all(&folder_path).unwrap();
+    }
 
     let mut records: Vec<Document> = vec![];
 
@@ -285,14 +279,21 @@ async fn process_file(file: DirEntry, dst: PathBuf) {
 
     println!("Processing file: {}", file.file_name().to_str().unwrap());
 
+    let mut part = 1;
+
     for line in jsonl.lines() {
         let line = line.unwrap();
         let document: Document = serde_json::from_str(&line).unwrap();
         records.push(document);
+        if records.len() >= 90_000 {
+            let batch = rows_to_batch(&records);
+            write_to_parquet(batch, &folder_path, lang, part);
+            records.clear();
+            part += 1;
+        }
     }
     let batch = rows_to_batch(&records);
-    writer.write(&batch).expect("Writing batch");
-    writer.close().unwrap();
+    write_to_parquet(batch, &folder_path, lang, part);
     println!(
         "Finished processing file: {}",
         file.file_name().to_str().unwrap(),

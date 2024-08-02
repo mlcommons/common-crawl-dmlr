@@ -10,7 +10,7 @@ mod oscar;
 async fn main() {
     let args = cli::Cli::parse();
     match args.command.unwrap() {
-        Commands::Lote { src, dst } => {
+        Commands::ConvertToParquet { src, dst } => {
             convert::convert_to_parquet(&src, &dst).await;
         }
     }
