@@ -26,7 +26,6 @@ async fn process_lang(lang: DirEntry, dst: &PathBuf) -> Result<()> {
         .await?;
 
     // filter out rows with quality_warnings
-
     let dangerous_categories = make_array(vec![
         lit("agressif"),
         lit("adult"),
@@ -43,17 +42,6 @@ async fn process_lang(lang: DirEntry, dst: &PathBuf) -> Result<()> {
     ]);
 
     let df = df.filter(col("quality_warnings").is_null())?;
-    // let df = df.filter(array_has(col("categories"), lit("agressif")).not())?;
-    // let df = df.filter(array_has(col("categories"), lit("adult")).not())?;
-    // let df = df.filter(array_has(col("categories"), lit("cryptojacking")).not())?;
-    // let df = df.filter(array_has(col("categories"), lit("dangerous_material")).not())?;
-    // let df = df.filter(array_has(col("categories"), lit("phishing")).not())?;
-    // let df = df.filter(array_has(col("categories"), lit("warez")).not())?;
-    // let df = df.filter(array_has(col("categories"), lit("ddos")).not())?;
-    // let df = df.filter(array_has(col("categories"), lit("hacking")).not())?;
-    // let df = df.filter(array_has(col("categories"), lit("malware")).not())?;
-    // let df = df.filter(array_has(col("categories"), lit("mixed_adult")).not())?;
-    // let df = df.filter(array_has(col("categories"), lit("sect")).not())?;
     let df = df.filter(array_has_any(col("categories"), dangerous_categories).not())?;
     let df = df.limit(0, Some(1000))?;
 
