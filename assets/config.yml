@@ -1,0 +1,883 @@
+aggregation_metric:
+  type: dynascore
+creation_samples_title: Label the text with the languages you think it is written in
+context:
+  type: select-multiple-text-multiple-tags
+  context_for_start: false
+  generative_context:
+    is_generative: true
+    type: wonder
+    artifacts:
+      tags:
+        - back_label: abk
+          display_label: Abkhazian
+        - back_label: ace
+          display_label: Achinese
+        - back_label: ach
+          display_label: Acoli
+        - back_label: ady
+          display_label: Adyghe; Adygei
+        - back_label: afr
+          display_label: Afrikaans
+        - back_label: agx
+          display_label: Aghul
+        - back_label: ajg
+          display_label: Aja (Benin)
+        - back_label: sqi
+          display_label: Albanian
+        - back_label: amh
+          display_label: Amharic
+        - back_label: ami
+          display_label: Amis
+        - back_label: hbo
+          display_label: Ancient Hebrew
+        - back_label: anp
+          display_label: Angika
+        - back_label: xmv
+          display_label: Antankarana Malagasy
+        - back_label: njo
+          display_label: Ao Naga
+        - back_label: ara
+          display_label: Arabic
+        - back_label: arg
+          display_label: Aragonese
+        - back_label: hye
+          display_label: Armenian
+        - back_label: rup
+          display_label: Aromanian; Arumanian; Macedo-Romanian[b]
+        - back_label: frp
+          display_label: Arpitan
+        - back_label: asm
+          display_label: Assamese
+        - back_label: aii
+          display_label: Assyrian Neo-Aramaic
+        - back_label: ast
+          display_label: Asturian; Bable; Leonese; Asturleonese
+        - back_label: tay
+          display_label: Atayal
+        - back_label: atj
+          display_label: Atikamekw
+        - back_label: ava
+          display_label: Avaric
+        - back_label: awa
+          display_label: Awadhi
+        - back_label: quy
+          display_label: Ayacucho Quechua
+        - back_label: aze
+          display_label: Azerbaijani
+        - back_label: ban
+          display_label: Balinese
+        - back_label: bam
+          display_label: Bambara
+        - back_label: bjn
+          display_label: Banjar
+        - back_label: bas
+          display_label: Basa
+        - back_label: bak
+          display_label: Bashkir
+        - back_label: eus
+          display_label: Basque
+        - back_label: bbc
+          display_label: Batak Toba
+        - back_label: bar
+          display_label: Bavarian
+        - back_label: bel
+          display_label: Belarusian
+        - back_label: bzj
+          display_label: Belize Kriol English
+        - back_label: ben
+          display_label: Bengali
+        - back_label: bew
+          display_label: Betawi
+        - back_label: bho
+          display_label: Bhojpuri
+        - back_label: bpy
+          display_label: Bishnupriya
+        - back_label: bis
+          display_label: Bislama
+        - back_label: nob
+          display_label: "Bokm\xE5l, Norwegian; Norwegian Bokm\xE5l"
+        - back_label: bos
+          display_label: Bosnian
+        - back_label: bre
+          display_label: Breton
+        - back_label: bug
+          display_label: Buginese
+        - back_label: bul
+          display_label: Bulgarian
+        - back_label: mya
+          display_label: Burmese
+        - back_label: jvn
+          display_label: Caribbean Javanese
+        - back_label: cat
+          display_label: Catalan; Valencian
+        - back_label: ceb
+          display_label: Cebuano
+        - back_label: tzm
+          display_label: Central Atlas Tamazight
+        - back_label: ayr
+          display_label: Central Aymara
+        - back_label: bcl
+          display_label: Central Bikol
+        - back_label: khm
+          display_label: Central Khmer
+        - back_label: ckb
+          display_label: Central Kurdish
+        - back_label: ckm
+          display_label: Chakavian
+        - back_label: cha
+          display_label: Chamorro
+        - back_label: cbk
+          display_label: Chavacano
+        - back_label: che
+          display_label: Chechen
+        - back_label: hne
+          display_label: Chhattisgarhi
+        - back_label: nya
+          display_label: Chichewa; Chewa; Nyanja
+        - back_label: zho
+          display_label: Chinese
+        - back_label: chu
+          display_label:
+            "Church\_Slavic; Old\_Slavonic; Church\_Slavonic; Old\_Bulgarian;\
+            \ Old\_Church\_Slavonic"
+        - back_label: chk
+          display_label: Chuukese
+        - back_label: chv
+          display_label: Chuvash
+        - back_label: syc
+          display_label: Classical Syriac
+        - back_label: cop
+          display_label: Coptic
+        - back_label: cor
+          display_label: Cornish
+        - back_label: cos
+          display_label: Corsican
+        - back_label: crh
+          display_label: Crimean Tatar; Crimean Turkish
+        - back_label: hrv
+          display_label: Croatian
+        - back_label: ces
+          display_label: Czech
+        - back_label: dag
+          display_label: Dagbani
+        - back_label: dan
+          display_label: Danish
+        - back_label: dwr
+          display_label: Dawro
+        - back_label: diq
+          display_label: Dimli (individual language)
+        - back_label: div
+          display_label: Divehi; Dhivehi; Maldivian
+        - back_label: doi
+          display_label: Dogri
+        - back_label: dng
+          display_label: Dungan
+        - back_label: nld
+          display_label: Dutch; Flemish
+        - back_label: dzo
+          display_label: Dzongkha
+        - back_label: ike
+          display_label: Eastern Canadian Inuktitut
+        - back_label: mhr
+          display_label: Eastern Mari
+        - back_label: ydd
+          display_label: Eastern Yiddish
+        - back_label: efi
+          display_label: Efik
+        - back_label: arz
+          display_label: Egyptian Arabic
+        - back_label: eml
+          display_label: Emiliano-Romagnolo
+        - back_label: eng
+          display_label: English
+        - back_label: ang
+          display_label: "English, Old (ca.450\u20131100)"
+        - back_label: myv
+          display_label: Erzya
+        - back_label: epo
+          display_label: Esperanto
+        - back_label: est
+          display_label: Estonian
+        - back_label: eve
+          display_label: Even
+        - back_label: ewe
+          display_label: Ewe
+        - back_label: ext
+          display_label: Extremaduran
+        - back_label: fat
+          display_label: Fanti
+        - back_label: gur
+          display_label: Farefare
+        - back_label: fao
+          display_label: Faroese
+        - back_label: hif
+          display_label: Fiji Hindi
+        - back_label: fij
+          display_label: Fijian
+        - back_label: fil
+          display_label: Filipino; Pilipino
+        - back_label: fin
+          display_label: Finnish
+        - back_label: fon
+          display_label: Fon
+        - back_label: fra
+          display_label: French
+        - back_label: fro
+          display_label: "French, Old (842\u2013ca. 1400)"
+        - back_label: fur
+          display_label: Friulian
+        - back_label: gla
+          display_label: Gaelic; Scottish Gaelic
+        - back_label: gag
+          display_label: Gagauz
+        - back_label: glg
+          display_label: Galician
+        - back_label: lug
+          display_label: Ganda
+        - back_label: kat
+          display_label: Georgian
+        - back_label: deu
+          display_label: German
+        - back_label: goh
+          display_label: "German, Old High (ca. 750\u20131050)"
+        - back_label: glk
+          display_label: Gilaki
+        - back_label: gom
+          display_label: Goan Konkani
+        - back_label: gkn
+          display_label: Gokana
+        - back_label: gor
+          display_label: Gorontalo
+        - back_label: got
+          display_label: Gothic
+        - back_label: gux
+          display_label: "Gourmanch\xE9ma"
+        - back_label: grc
+          display_label: Greek, Ancient (to 1453)
+        - back_label: ell
+          display_label: "Greek, Modern (1453\u2013)"
+        - back_label: gos
+          display_label: Gronings
+        - back_label: gcr
+          display_label: Guianese Creole French
+        - back_label: guj
+          display_label: Gujarati
+        - back_label: guw
+          display_label: Gun
+        - back_label: hac
+          display_label: Gurani
+        - back_label: hat
+          display_label: Haitian; Haitian Creole
+        - back_label: cnh
+          display_label: Hakha Chin
+        - back_label: hak
+          display_label: Hakka Chinese
+        - back_label: khk
+          display_label: Halh Mongolian
+        - back_label: hau
+          display_label: Hausa
+        - back_label: haw
+          display_label: Hawaiian
+        - back_label: heb
+          display_label: Hebrew
+        - back_label: hin
+          display_label: Hindi
+        - back_label: hmo
+          display_label: Hiri Motu
+        - back_label: mww
+          display_label: Hmong Daw
+        - back_label: qub
+          display_label: "Huallaga Hu\xE1nuco Quechua"
+        - back_label: hun
+          display_label: Hungarian
+        - back_label: iba
+          display_label: Iban
+        - back_label: isl
+          display_label: Icelandic
+        - back_label: ido
+          display_label: Ido
+        - back_label: ibo
+          display_label: Igbo
+        - back_label: ilo
+          display_label: Iloko
+        - back_label: smn
+          display_label: Inari Sami
+        - back_label: ind
+          display_label: Indonesian
+        - back_label: inh
+          display_label: Ingush
+        - back_label: ina
+          display_label: Interlingua (International Auxiliary Language Association)
+        - back_label: ile
+          display_label: Interlingue; Occidental
+        - back_label: gle
+          display_label: Irish
+        - back_label: zai
+          display_label: Isthmus Zapotec
+        - back_label: ita
+          display_label: Italian
+        - back_label: jam
+          display_label: Jamaican Creole English
+        - back_label: jpn
+          display_label: Japanese
+        - back_label: jav
+          display_label: Javanese
+        - back_label: quc
+          display_label: K'iche'
+        - back_label: kbd
+          display_label: Kabardian
+        - back_label: kbp
+          display_label: "Kabiy\xE8"
+        - back_label: kea
+          display_label: Kabuverdianu
+        - back_label: kab
+          display_label: Kabyle
+        - back_label: dtp
+          display_label: Kadazan Dusun
+        - back_label: kal
+          display_label: Kalaallisut; Greenlandic
+        - back_label: kck
+          display_label: Kalanga
+        - back_label: xal
+          display_label: Kalmyk; Oirat
+        - back_label: xla
+          display_label: Kamula
+        - back_label: kan
+          display_label: Kannada
+        - back_label: cak
+          display_label: Kaqchikel
+        - back_label: kaa
+          display_label: Kara-Kalpak
+        - back_label: krc
+          display_label: Karachay-Balkar
+        - back_label: krl
+          display_label: Karelian
+        - back_label: kas
+          display_label: Kashmiri
+        - back_label: csb
+          display_label: Kashubian
+        - back_label: kaz
+          display_label: Kazakh
+        - back_label: kik
+          display_label: Kikuyu; Gikuyu
+        - back_label: kin
+          display_label: Kinyarwanda
+        - back_label: kir
+          display_label: Kirghiz; Kyrgyz
+        - back_label: kiu
+          display_label: Kirmanjki (individual language)
+        - back_label: ktu
+          display_label: Kituba (Democratic Republic of Congo)
+        - back_label: trp
+          display_label: Kok Borok
+        - back_label: kom
+          display_label: Komi
+        - back_label: koi
+          display_label: Komi-Permyak
+        - back_label: kpv
+          display_label: Komi-Zyrian
+        - back_label: kng
+          display_label: Koongo
+        - back_label: kor
+          display_label: Korean
+        - back_label: avk
+          display_label: Kotava
+        - back_label: kri
+          display_label: Krio
+        - back_label: kum
+          display_label: Kumyk
+        - back_label: kur
+          display_label: Kurdish
+        - back_label: fkv
+          display_label: Kven Finnish
+        - back_label: ksh
+          display_label: "K\xF6lsch"
+        - back_label: lld
+          display_label: Ladin
+        - back_label: lad
+          display_label: Ladino
+        - back_label: lbe
+          display_label: Lak
+        - back_label: quf
+          display_label: Lambayeque Quechua
+        - back_label: lao
+          display_label: Lao
+        - back_label: ltg
+          display_label: Latgalian
+        - back_label: lat
+          display_label: Latin
+        - back_label: lav
+          display_label: Latvian
+        - back_label: lez
+          display_label: Lezghian
+        - back_label: lij
+          display_label: Ligurian
+        - back_label: lim
+          display_label: Limburgan; Limburger; Limburgish
+        - back_label: lin
+          display_label: Lingala
+        - back_label: lfn
+          display_label: Lingua Franca Nova
+        - back_label: lit
+          display_label: Lithuanian
+        - back_label: liv
+          display_label: Liv
+        - back_label: olo
+          display_label: Livvi
+        - back_label: jbo
+          display_label: Lojban
+        - back_label: lmo
+          display_label: Lombard
+        - back_label: nds
+          display_label: Low German; Low Saxon; German, Low; Saxon, Low
+        - back_label: dsb
+          display_label: Lower Sorbian
+        - back_label: lus
+          display_label: Lushai
+        - back_label: ltz
+          display_label: Luxembourgish; Letzeburgesch
+        - back_label: mkd
+          display_label: Macedonian
+        - back_label: mad
+          display_label: Madurese
+        - back_label: mag
+          display_label: Magahi
+        - back_label: mai
+          display_label: Maithili
+        - back_label: vmw
+          display_label: Makhuwa
+        - back_label: mlg
+          display_label: Malagasy
+        - back_label: msa
+          display_label: Malay
+        - back_label: mal
+          display_label: Malayalam
+        - back_label: mlt
+          display_label: Maltese
+        - back_label: cmn
+          display_label: Mandarin Chinese
+        - back_label: mni
+          display_label: Manipuri
+        - back_label: glv
+          display_label: Manx
+        - back_label: arn
+          display_label: Mapudungun; Mapuche
+        - back_label: mar
+          display_label: Marathi
+        - back_label: mzn
+          display_label: Mazanderani
+        - back_label: nan
+          display_label: Min Nan Chinese
+        - back_label: min
+          display_label: Minangkabau
+        - back_label: xmf
+          display_label: Mingrelian
+        - back_label: mwl
+          display_label: Mirandese
+        - back_label: moh
+          display_label: Mohawk
+        - back_label: mdf
+          display_label: Moksha
+        - back_label: mnw
+          display_label: Mon
+        - back_label: mon
+          display_label: Mongolian
+        - back_label: cnr
+          display_label: Montenegrin
+        - back_label: ary
+          display_label: Moroccan Arabic
+        - back_label: mos
+          display_label: Mossi
+        - back_label: mui
+          display_label: Musi
+        - back_label: mri
+          display_label: "M\u0101ori"
+        - back_label: nqo
+          display_label: N'Ko
+        - back_label: nah
+          display_label: Nahuatl
+        - back_label: ars
+          display_label: Najdi Arabic
+        - back_label: nrm
+          display_label: Narom
+        - back_label: nav
+          display_label: Navajo; Navaho
+        - back_label: nap
+          display_label: Neapolitan
+        - back_label: yrk
+          display_label: Nenets
+        - back_label: new
+          display_label: Nepal Bhasa; Newari
+        - back_label: nep
+          display_label: Nepali
+        - back_label: npi
+          display_label: Nepali (individual language)
+        - back_label: nia
+          display_label: Nias
+        - back_label: fuv
+          display_label: Nigerian Fulfulde
+        - back_label: pcm
+          display_label: Nigerian Pidgin
+        - back_label: niu
+          display_label: Niuean
+        - back_label: zxx
+          display_label: No linguistic content; Not applicable
+        - back_label: nog
+          display_label: Nogai
+        - back_label: None
+          display_label: None
+        - back_label: azj
+          display_label: North Azerbaijani
+        - back_label: frr
+          display_label: Northern Frisian
+        - back_label: kmr
+          display_label: Northern Kurdish
+        - back_label: sme
+          display_label: Northern Sami
+        - back_label: uzn
+          display_label: Northern Uzbek
+        - back_label: nor
+          display_label: Norwegian
+        - back_label: nno
+          display_label: Norwegian Nynorsk; Nynorsk, Norwegian
+        - back_label: nov
+          display_label: Novial
+        - back_label: nyn
+          display_label: Nyankole
+        - back_label: ann
+          display_label: Obolo
+        - back_label: oci
+          display_label: Occitan (post 1500)
+        - back_label: ory
+          display_label: Odia
+        - back_label: orv
+          display_label: Old Russian
+        - back_label: ori
+          display_label: Oriya
+        - back_label: ury
+          display_label: Orya
+        - back_label: oss
+          display_label: Ossetian; Ossetic
+        - back_label: blk
+          display_label: Pa'o Karen
+        - back_label: pwn
+          display_label: Paiwan
+        - back_label: pau
+          display_label: Palauan
+        - back_label: pam
+          display_label: Pampanga; Kapampangan
+        - back_label: pag
+          display_label: Pangasinan
+        - back_label: pan
+          display_label: Panjabi; Punjabi
+        - back_label: pap
+          display_label: Papiamento
+        - back_label: gug
+          display_label: "Paraguayan Guaran\xED"
+        - back_label: nso
+          display_label: Pedi; Sepedi; Northern Sotho
+        - back_label: fas
+          display_label: Persian
+        - back_label: pfl
+          display_label: Pfaelzisch
+        - back_label: pcd
+          display_label: Picard
+        - back_label: pms
+          display_label: Piemontese
+        - back_label: plt
+          display_label: Plateau Malagasy
+        - back_label: pol
+          display_label: Polish
+        - back_label: por
+          display_label: Portuguese
+        - back_label: prg
+          display_label: Prussian
+        - back_label: pui
+          display_label: Puinave
+        - back_label: pus
+          display_label: Pushto; Pashto
+        - back_label: rar
+          display_label: "Rarotongan; Cook Islands M\u0101ori"
+        - back_label: ron
+          display_label: Romanian; Moldavian; Moldovan
+        - back_label: roh
+          display_label: Romansh
+        - back_label: run
+          display_label: Rundi
+        - back_label: bxr
+          display_label: Russia Buriat
+        - back_label: rus
+          display_label: Russian
+        - back_label: rue
+          display_label: Rusyn
+        - back_label: szy
+          display_label: Sakizaya
+        - back_label: smo
+          display_label: Samoan
+        - back_label: sgs
+          display_label: Samogitian
+        - back_label: sag
+          display_label: Sango
+        - back_label: san
+          display_label: Sanskrit
+        - back_label: sat
+          display_label: Santali
+        - back_label: skr
+          display_label: Saraiki
+        - back_label: srd
+          display_label: Sardinian
+        - back_label: stq
+          display_label: Saterfriesisch
+        - back_label: sco
+          display_label: Scots
+        - back_label: trv
+          display_label: Sediq
+        - back_label: srp
+          display_label: Serbian
+        - back_label: hbs
+          display_label: Serbo-Croatian
+        - back_label: shn
+          display_label: Shan
+        - back_label: sna
+          display_label: Shona
+        - back_label: scn
+          display_label: Sicilian
+        - back_label: szl
+          display_label: Silesian
+        - back_label: snd
+          display_label: Sindhi
+        - back_label: sin
+          display_label: Sinhala; Sinhalese
+        - back_label: slk
+          display_label: Slovak
+        - back_label: slv
+          display_label: Slovenian
+        - back_label: som
+          display_label: Somali
+        - back_label: sot
+          display_label: Sotho, Southern
+        - back_label: azb
+          display_label: South Azerbaijani
+        - back_label: alt
+          display_label: Southern Altai
+        - back_label: bcc
+          display_label: Southern Balochi
+        - back_label: dga
+          display_label: Southern Dagaare
+        - back_label: sdh
+          display_label: Southern Kurdish
+        - back_label: pbt
+          display_label: Southern Pashto
+        - back_label: qup
+          display_label: Southern Pastaza Quechua
+        - back_label: sma
+          display_label: Southern Sami
+        - back_label: uzs
+          display_label: Southern Uzbek
+        - back_label: dik
+          display_label: Southwestern Dinka
+        - back_label: spa
+          display_label: Spanish; Castilian
+        - back_label: srn
+          display_label: Sranan Tongo
+        - back_label: arb
+          display_label: Standard Arabic
+        - back_label: ekk
+          display_label: Standard Estonian
+        - back_label: lvs
+          display_label: Standard Latvian
+        - back_label: zsm
+          display_label: Standard Malay
+        - back_label: sun
+          display_label: Sundanese
+        - back_label: swa
+          display_label: Swahili
+        - back_label: swh
+          display_label: Swahili (individual language)
+        - back_label: ssw
+          display_label: Swati
+        - back_label: swe
+          display_label: Swedish
+        - back_label: gsw
+          display_label: Swiss German; Alemannic; Alsatian
+        - back_label: tgl
+          display_label: Tagalog
+        - back_label: tah
+          display_label: Tahitian
+        - back_label: tgk
+          display_label: Tajik
+        - back_label: tly
+          display_label: Talysh
+        - back_label: taq
+          display_label: Tamasheq
+        - back_label: tam
+          display_label: Tamil
+        - back_label: tat
+          display_label: Tatar
+        - back_label: tsg
+          display_label: Tausug
+        - back_label: tel
+          display_label: Telugu
+        - back_label: tet
+          display_label: Tetum
+        - back_label: tdt
+          display_label: Tetun Dili
+        - back_label: tha
+          display_label: Thai
+        - back_label: bod
+          display_label: Tibetan
+        - back_label: tir
+          display_label: Tigrinya
+        - back_label: tiy
+          display_label: Tiruray
+        - back_label: tpi
+          display_label: Tok Pisin
+        - back_label: ton
+          display_label: Tonga (Tonga Islands)
+        - back_label: fit
+          display_label: Tornedalen Finnish
+        - back_label: als
+          display_label: Tosk Albanian
+        - back_label: tso
+          display_label: Tsonga
+        - back_label: tsn
+          display_label: Tswana
+        - back_label: tcy
+          display_label: Tulu
+        - back_label: tum
+          display_label: Tumbuka
+        - back_label: aeb
+          display_label: Tunisian Arabic
+        - back_label: tur
+          display_label: Turkish
+        - back_label: tuk
+          display_label: Turkmen
+        - back_label: tvl
+          display_label: Tuvalu
+        - back_label: tyv
+          display_label: Tuvinian
+        - back_label: twi
+          display_label: Twi
+        - back_label: kcg
+          display_label: Tyap
+        - back_label: udm
+          display_label: Udmurt
+        - back_label: uig
+          display_label: Uighur; Uyghur
+        - back_label: ukr
+          display_label: Ukrainian
+        - back_label: und
+          display_label: Undetermined
+        - back_label: hsb
+          display_label: Upper Sorbian
+        - back_label: urd
+          display_label: Urdu
+        - back_label: uzb
+          display_label: Uzbek
+        - back_label: ven
+          display_label: Venda
+        - back_label: vec
+          display_label: Venetian
+        - back_label: vep
+          display_label: Veps
+        - back_label: vie
+          display_label: Vietnamese
+        - back_label: vls
+          display_label: Vlaams
+        - back_label: rmy
+          display_label: Vlax Romani
+        - back_label: vol
+          display_label: "Volap\xFCk"
+        - back_label: vro
+          display_label: "V\xF5ro"
+        - back_label: wls
+          display_label: Wallisian
+        - back_label: wln
+          display_label: Walloon
+        - back_label: war
+          display_label: Waray
+        - back_label: guc
+          display_label: Wayuu
+        - back_label: cym
+          display_label: Welsh
+        - back_label: gaz
+          display_label: West Central Oromo
+        - back_label: apw
+          display_label: Western Apache
+        - back_label: hyw
+          display_label: Western Armenian
+        - back_label: fry
+          display_label: Western Frisian
+        - back_label: mrj
+          display_label: Western Mari
+        - back_label: pnb
+          display_label: Western Panjabi
+        - back_label: wol
+          display_label: Wolof
+        - back_label: wuu
+          display_label: Wu Chinese
+        - back_label: xho
+          display_label: Xhosa
+        - back_label: sah
+          display_label: Yakut
+        - back_label: yao
+          display_label: Yao
+        - back_label: yid
+          display_label: Yiddish
+        - back_label: zyb
+          display_label: Yongbei Zhuang
+        - back_label: yor
+          display_label: Yoruba
+        - back_label: yua
+          display_label: Yucateco
+        - back_label: yue
+          display_label: Yue Chinese
+        - back_label: zea
+          display_label: Zeeuws
+        - back_label: zul
+          display_label: Zulu
+      additional_label:
+        options:
+          - <b>Sexual </b>The text contains explicit sexual or adult content.
+          - <b>Toxic </b>The snippet contains offensive or harmful content.
+          - <b>Non-Standard Orthography  </b>The snippet contains variations in spelling, punctuation, and written conventions that deviate from established language norms.
+          - <b>Boilerplate </b>The text snippet contains linguistic content, but <b> most </b> of the content (more than 50%) is part of a template, form, standard alert text, a menu, etc.
+        instructions: "<b> Optional annotations: Choose one or more of the following tags for the document (only if they apply).</b> <br />"
+        extra_label: content
+  field_names_for_the_model:
+    preselected_tag: null
+    tag_name_display: language
+    tag_name_search: iso639-3
+    default_tag: eng
+  metadata:
+    context: false
+  instruction:
+    tooltip: Please select the language and tag that best describes the context
+    preselection: Please select a language you are proficient in
+    tag_name: language
+    context_alert_title: No Text
+    context_alert_text: Looks like there is no text pretagged with the language you selected
+    selection_note: To tag text in an additional language, select that language from the dropdown, then select the text.  To undo a language tag, click anywhere in the selected text.
+model_input:
+  statement: statement
+response_fields:
+  input_by_user: statement
+model_wrong_metric:
+  reference_names:
+    - label
+  type: exact_match
+output:
+  - name: label
+  - name: prob
+    reference_name: label
+    type: prob
+perf_metric:
+  reference_name: label
+  type: macro_f1
+model_output:
+  model_prediction_label: label
+model_evaluation_metric:
+  metric_name: exact_match
+required_fields:
+  - label

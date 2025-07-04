@@ -1,4 +1,4 @@
 [workspace]
 
 resolver = "2"
-members = [ "cc-langid-sampler", "madlad-sampler","oscar2parquet"]
+members = [ "cc-langid-sampler", "madlad-sampler", "lang-names","oscar2parquet"]
