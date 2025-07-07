@@ -24,14 +24,47 @@ fn write_to_parquet(batch: RecordBatch, folder_path: &PathBuf, lang: &str, part:
     writer.close().unwrap();
 }
 
-fn process_lang(lang: DirEntry, _dst: &PathBuf) -> Result<(), String> {
-    let language = lang.path().components().last().unwrap();
-    println!("Processing language: {:?}", language);
+fn process_lang(dir: DirEntry, _dst: &PathBuf) -> Result<(), String> {
+    // This is insane, but we can do it because we know these are language codes
+    let language = dir
+        .path()
+        .components()
+        .last()
+        .unwrap()
+        .as_os_str()
+        .to_os_string()
+        .into_string()
+        .unwrap();
+    let code: String;
+    let mut script = String::new();
+    let mut locale = String::new();
+    let lang_parts: Vec<&str> = language.split('_').collect();
+    match lang_parts.len() {
+        1 => {
+            code = lang_parts[0].to_string();
+        }
+        2 => {
+            code = lang_parts[0].to_string();
+            script = lang_parts[1].to_string();
+        }
+        3 => {
+            code = lang_parts[0].to_string();
+            script = lang_parts[1].to_string();
+            locale = lang_parts[2].to_string();
+        }
+        _ => {
+            return Err(format!("Invalid language format: {}", language));
+        }
+    }
+    println!(
+        "Processing language: {}, script: {}, locale: {}",
+        code, script, locale
+    );
     Ok(())
 }
 
 pub fn sample(src: &PathBuf, dst: &PathBuf, _new_version: bool) -> Result<(), String> {
-    // find all the lang folders containing the parquet files in the src folder
+    // Get all the langueg dirs
     let folder_paths: Vec<DirEntry> = WalkDir::new(src)
         .min_depth(1)
         .max_depth(1)

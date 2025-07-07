@@ -16,7 +16,8 @@ pub struct MadDocument {
 pub struct Document {
     pub text: String,
     pub lang: String,
-    pub script: String,
+    pub script: Option<String>,
+    pub locale: Option<String>,
     pub timestamp: Option<String>,
     pub url: Option<String>,
     pub clean: bool,
@@ -29,6 +30,7 @@ struct MadBuilder {
     text: StringBuilder,
     lang: StringBuilder,
     script: StringBuilder,
+    locale: StringBuilder,
     timestamp: StringBuilder,
     url: StringBuilder,
     clean: BooleanBuilder,
@@ -40,7 +42,8 @@ impl MadBuilder {
     fn append(&mut self, document: &Document) {
         self.text.append_value(document.text.as_str());
         self.lang.append_value(document.lang.as_str());
-        self.script.append_option(document.lang.as_str());
+        self.script.append_option(document.script.as_ref());
+        self.locale.append_option(document.locale.as_ref());
         self.timestamp.append_option(document.timestamp.as_ref());
         self.url.append_option(document.url.as_ref());
         self.clean.append_value(document.clean);
@@ -59,6 +62,9 @@ impl MadBuilder {
         let script = Arc::new(self.script.finish()) as ArrayRef;
         let script_field = Arc::new(Field::new("script", DataType::Utf8, true));
 
+        let locale = Arc::new(self.locale.finish()) as ArrayRef;
+        let locale_field = Arc::new(Field::new("locale", DataType::Utf8, true));
+
         let timestamp = Arc::new(self.timestamp.finish()) as ArrayRef;
         let timestamp_field = Arc::new(Field::new("timestamp", DataType::Utf8, true));
 
@@ -69,7 +75,7 @@ impl MadBuilder {
         let clean_field = Arc::new(Field::new("clean", DataType::Boolean, false));
 
         let source = Arc::new(self.source.finish()) as ArrayRef;
-        let source_field = Arc::new(Field::new("source", DataType::Utf8, true));
+        let source_field = Arc::new(Field::new("source", DataType::Utf8, false));
 
         let version = Arc::new(self.version.finish()) as ArrayRef;
         let version_field = Arc::new(Field::new("version", DataType::Utf8, false));
@@ -78,6 +84,7 @@ impl MadBuilder {
             (text_field, text),
             (lang_field, lang),
             (script_field, script),
+            (locale_field, locale),
             (timestamp_field, timestamp),
             (url_field, url),
             (clean_field, clean),
