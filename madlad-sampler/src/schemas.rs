@@ -26,7 +26,7 @@ pub struct Document {
 }
 
 #[derive(Debug, Default)]
-struct MadBuilder {
+pub struct MadBuilder {
     text: StringBuilder,
     lang: StringBuilder,
     script: StringBuilder,
@@ -52,7 +52,7 @@ impl MadBuilder {
     }
 
     /// Note: returns StructArray to allow nesting within another array if desired
-    fn finish(&mut self) -> StructArray {
+    pub fn finish(&mut self) -> StructArray {
         let text = Arc::new(self.text.finish()) as ArrayRef;
         let text_field = Arc::new(Field::new("text", DataType::Utf8, false));
 
