@@ -11,10 +11,6 @@ pub struct Args {
     #[arg(value_name = "INPUT FOLDER")]
     pub src: PathBuf,
 
-    /// Weather it is the new version of MADLAD or not
-    #[arg(short, long)]
-    pub new_version: bool,
-
     /// Parquet file to write
     #[arg(value_name = "DESTINATION FILE")]
     pub dst: PathBuf,

@@ -6,7 +6,7 @@ mod sampler;
 fn main() {
     let args = cli::Args::parse();
 
-    let res = sampler::sample(&args.src, &args.dst, args.new_version);
+    let res = sampler::sample(&args.src, &args.dst);
 
     match res {
         Ok(_) => (),
