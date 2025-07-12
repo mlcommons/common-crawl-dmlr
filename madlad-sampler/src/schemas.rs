@@ -57,7 +57,7 @@ impl MadBuilder {
         let text_field = Arc::new(Field::new("text", DataType::Utf8, false));
 
         let lang = Arc::new(self.lang.finish()) as ArrayRef;
-        let lang_field = Arc::new(Field::new(";ang", DataType::Utf8, false));
+        let lang_field = Arc::new(Field::new("lang", DataType::Utf8, false));
 
         let script = Arc::new(self.script.finish()) as ArrayRef;
         let script_field = Arc::new(Field::new("script", DataType::Utf8, true));

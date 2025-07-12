@@ -20,6 +20,18 @@ use madlad_sampler::{
     schemas::{Document, MadBuilder, MadDocument, rows_to_batch},
 };
 
+trait RemoveFirst {
+    fn remove_first(&self) -> Self;
+}
+
+impl RemoveFirst for String {
+    fn remove_first(&self) -> Self {
+        let mut chars = self.chars();
+        chars.next();
+        chars.as_str().to_string()
+    }
+}
+
 fn process_jsonline(
     line: String,
     lang: String,
@@ -70,14 +82,29 @@ fn process_lang(dir: DirEntry) -> Result<Vec<Document>, MadError> {
     };
     match lang_parts.len() {
         1 => {
-            tag = iso_tag.to_string();
-            script = None;
-            locale = None;
+            return Err(format!(
+                "WARNING! Language without script or locale: {}. Assuming no script or locale, but this is likely an error.",
+                language
+            ).into());
         }
         2 => {
             tag = iso_tag.to_string();
-            script = Some(lang_parts[1].to_string());
-            locale = None;
+            let is_uppercase: bool = lang_parts[1]
+                .to_string()
+                .chars() // Elements: [':', ')', ' ', '?']
+                .filter(|x| x.is_alphabetic()) // Elements: [] (no element is alphabetic, so this is an empty iterator)
+                .all(|x| x.is_uppercase());
+            let is_len2 = lang_parts[1].chars().count() == 2;
+
+            if is_len2 && is_uppercase {
+                // This is locale code
+                script = None;
+                locale = Some(lang_parts[1].to_string());
+            } else {
+                // This is a locale code
+                script = Some(lang_parts[1].to_string());
+                locale = None;
+            }
         }
         3 => {
             tag = iso_tag.to_string();
@@ -92,6 +119,10 @@ fn process_lang(dir: DirEntry) -> Result<Vec<Document>, MadError> {
         "Processing language: {}, script: {:?}, locale: {:?}",
         tag, script, locale
     );
+
+    if tag != "apd" {
+        return Err(format!("WARNING! Undesired Language {}", language).into());
+    }
 
     let mut records: Vec<Document> = vec![];
     let sample_size = 1000; // Limit the number of records to sample
@@ -118,7 +149,11 @@ fn process_lang(dir: DirEntry) -> Result<Vec<Document>, MadError> {
             let line = match line {
                 Ok(l) => l,
                 Err(e) => {
-                    eprintln!("Error reading line: {}", e);
+                    eprintln!(
+                        "WARNING! Error reading line in file {}: {}",
+                        clean_file.path().display(),
+                        e
+                    );
                     continue; // Skip this line if there's an error
                 }
             };
@@ -132,14 +167,31 @@ fn process_lang(dir: DirEntry) -> Result<Vec<Document>, MadError> {
             ) {
                 Ok(doc) => doc,
                 Err(e) => {
-                    eprintln!("Error Ecoding document: {}", e);
+                    eprintln!("WARNING! Error Ecoding document: {}", e);
                     continue; // Skip this line if there's an error
                 }
             };
-            if doc.text.is_empty() {
-                continue; // Skip empty documents
-            }
-            records.push(doc);
+            let noisy_doc: Document;
+            if !doc.text.is_empty() {
+                continue;
+            } else {
+                if doc.url.clone().is_some_and(|u| u.starts_with("=")) {
+                    noisy_doc = Document {
+                        text: doc.url.clone().unwrap_or_default().remove_first(), // Remove the leading '='
+                        lang: doc.lang.clone(),
+                        script: doc.script.clone(),
+                        locale: doc.locale.clone(),
+                        timestamp: None,
+                        url: None,
+                        clean: true,
+                        source: doc.source.clone(),
+                        version: doc.version.clone(),
+                    };
+                } else {
+                    continue;
+                }
+            };
+            records.push(noisy_doc);
             if records.len() >= sample_size {
                 break; // Limit to sample size
             }
@@ -170,7 +222,11 @@ fn process_lang(dir: DirEntry) -> Result<Vec<Document>, MadError> {
             let line = match line {
                 Ok(l) => l,
                 Err(e) => {
-                    eprintln!("Error reading line: {}", e);
+                    eprintln!(
+                        "WARNING! Error reading line in file {}: {}",
+                        noisy_file.path().display(),
+                        e
+                    );
                     continue; // Skip this line if there's an error
                 }
             };
@@ -184,14 +240,31 @@ fn process_lang(dir: DirEntry) -> Result<Vec<Document>, MadError> {
             ) {
                 Ok(doc) => doc,
                 Err(e) => {
-                    eprintln!("Error Ecoding document: {}", e);
+                    eprintln!("WARNING! Error Ecoding document: {}", e);
                     continue; // Skip this line if there's an error
                 }
             };
-            if doc.text.is_empty() {
-                continue; // Skip empty documents
-            }
-            records.push(doc);
+            let noisy_doc: Document;
+            if !doc.text.is_empty() {
+                continue;
+            } else {
+                if doc.url.clone().is_some_and(|u| u.starts_with("=")) {
+                    noisy_doc = Document {
+                        text: doc.url.clone().unwrap_or_default().remove_first(), // Remove the leading '='
+                        lang: doc.lang.clone(),
+                        script: doc.script.clone(),
+                        locale: doc.locale.clone(),
+                        timestamp: None,
+                        url: None,
+                        clean: true,
+                        source: doc.source.clone(),
+                        version: doc.version.clone(),
+                    };
+                } else {
+                    continue;
+                }
+            };
+            records.push(noisy_doc);
             if records.len() >= 2 * clean_len {
                 break; // Limit to sample size
             }
@@ -229,7 +302,10 @@ pub fn sample(src: &PathBuf, dst: &PathBuf) -> Result<(), String> {
         match process_lang(lang.clone()) {
             Ok(records) => {
                 if records.is_empty() {
-                    println!("No records found for language: {}", lang.path().display());
+                    println!(
+                        "WARNING! No records found for language: {}",
+                        lang.path().display()
+                    );
                     continue;
                 }
 

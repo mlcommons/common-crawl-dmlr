@@ -1,0 +1,1325 @@
+Processing lang folder: /data/common/common_crawl/madlad/data/data-v1p5/hif
+WARNING! One of the languages couldn't be processed: WARNING! Language without script or locale: hif. Assuming no script or locale, but this is likely an error.
+Processing lang folder: /data/common/common_crawl/madlad/data/data-v1p5/it
+WARNING! One of the languages couldn't be processed: WARNING! Language without script or locale: it. Assuming no script or locale, but this is likely an error.
+Processing lang folder: /data/common/common_crawl/madlad/data/data-v1p5/ro
+WARNING! One of the languages couldn't be processed: WARNING! Language without script or locale: ro. Assuming no script or locale, but this is likely an error.
+Processing lang folder: /data/common/common_crawl/madlad/data/data-v1p5/cak
+WARNING! One of the languages couldn't be processed: WARNING! Language without script or locale: cak. Assuming no script or locale, but this is likely an error.
+Processing lang folder: /data/common/common_crawl/madlad/data/data-v1p5/gd
+WARNING! One of the languages couldn't be processed: WARNING! Language without script or locale: gd. Assuming no script or locale, but this is likely an error.
+Processing lang folder: /data/common/common_crawl/madlad/data/data-v1p5/zyj
+WARNING! One of the languages couldn't be processed: WARNING! Language without script or locale: zyj. Assuming no script or locale, but this is likely an error.
+Processing lang folder: /data/common/common_crawl/madlad/data/data-v1p5/yap
+WARNING! One of the languages couldn't be processed: WARNING! Language without script or locale: yap. Assuming no script or locale, but this is likely an error.
+Processing lang folder: /data/common/common_crawl/madlad/data/data-v1p5/jv
+WARNING! One of the languages couldn't be processed: WARNING! Language without script or locale: jv. Assuming no script or locale, but this is likely an error.
+Processing lang folder: /data/common/common_crawl/madlad/data/data-v1p5/qub
+WARNING! One of the languages couldn't be processed: WARNING! Language without script or locale: qub. Assuming no script or locale, but this is likely an error.
+Processing lang folder: /data/common/common_crawl/madlad/data/data-v1p5/sgj
+WARNING! One of the languages couldn't be processed: WARNING! Language without script or locale: sgj. Assuming no script or locale, but this is likely an error.
+Processing lang folder: /data/common/common_crawl/madlad/data/data-v1p5/pis
+WARNING! One of the languages couldn't be processed: WARNING! Language without script or locale: pis. Assuming no script or locale, but this is likely an error.
+Processing lang folder: /data/common/common_crawl/madlad/data/data-v1p5/tly_IR
+Processing language: tly, script: None, locale: Some("IR")
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/tly_IR/noisy_docs_v2-00156-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/tly_IR/noisy_docs_v2-00169-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/tly_IR/noisy_docs_v2-00135-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/tly_IR/noisy_docs_v2-00054-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/tly_IR/noisy_docs_v2-00060-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/tly_IR/noisy_docs_v2-00030-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/tly_IR/noisy_docs_v2-00023-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/tly_IR/noisy_docs_v2-00181-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/tly_IR/noisy_docs_v2-00045-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/tly_IR/noisy_docs_v2-00175-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/tly_IR/noisy_docs_v2-00014-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/tly_IR/noisy_docs_v2-00043-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/tly_IR/noisy_docs_v2-00180-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/tly_IR/noisy_docs_v2-00021-of-00200.jsonl.gz
+Processing lang folder: /data/common/common_crawl/madlad/data/data-v1p5/bew
+WARNING! One of the languages couldn't be processed: WARNING! Language without script or locale: bew. Assuming no script or locale, but this is likely an error.
+Processing lang folder: /data/common/common_crawl/madlad/data/data-v1p5/ms_Arab_BN
+Processing language: msa, script: Some("Arab"), locale: Some("BN")
+Processing clean file: /data/common/common_crawl/madlad/data/data-v1p5/ms_Arab_BN/clean_docs_v2-00002-of-00010.jsonl.gz
+Processing clean file: /data/common/common_crawl/madlad/data/data-v1p5/ms_Arab_BN/clean_docs_v2-00009-of-00010.jsonl.gz
+Processing clean file: /data/common/common_crawl/madlad/data/data-v1p5/ms_Arab_BN/clean_docs_v2-00004-of-00010.jsonl.gz
+Processing clean file: /data/common/common_crawl/madlad/data/data-v1p5/ms_Arab_BN/clean_docs_v2-00008-of-00010.jsonl.gz
+Processing clean file: /data/common/common_crawl/madlad/data/data-v1p5/ms_Arab_BN/clean_docs_v2-00003-of-00010.jsonl.gz
+Processing clean file: /data/common/common_crawl/madlad/data/data-v1p5/ms_Arab_BN/clean_docs_v2-00005-of-00010.jsonl.gz
+Processing clean file: /data/common/common_crawl/madlad/data/data-v1p5/ms_Arab_BN/clean_docs_v2-00000-of-00010.jsonl.gz
+Processing clean file: /data/common/common_crawl/madlad/data/data-v1p5/ms_Arab_BN/clean_docs_v2-00006-of-00010.jsonl.gz
+Processing clean file: /data/common/common_crawl/madlad/data/data-v1p5/ms_Arab_BN/clean_docs_v2-00001-of-00010.jsonl.gz
+Processing clean file: /data/common/common_crawl/madlad/data/data-v1p5/ms_Arab_BN/clean_docs_v2-00007-of-00010.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/ms_Arab_BN/noisy_docs_v2-00004-of-00010.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/ms_Arab_BN/noisy_docs_v2-00009-of-00010.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/ms_Arab_BN/noisy_docs_v2-00002-of-00010.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/ms_Arab_BN/noisy_docs_v2-00005-of-00010.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/ms_Arab_BN/noisy_docs_v2-00003-of-00010.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/ms_Arab_BN/noisy_docs_v2-00008-of-00010.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/ms_Arab_BN/noisy_docs_v2-00006-of-00010.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/ms_Arab_BN/noisy_docs_v2-00000-of-00010.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/ms_Arab_BN/noisy_docs_v2-00007-of-00010.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/ms_Arab_BN/noisy_docs_v2-00001-of-00010.jsonl.gz
+Processing lang folder: /data/common/common_crawl/madlad/data/data-v1p5/ca
+WARNING! One of the languages couldn't be processed: WARNING! Language without script or locale: ca. Assuming no script or locale, but this is likely an error.
+Processing lang folder: /data/common/common_crawl/madlad/data/data-v1p5/abs
+WARNING! One of the languages couldn't be processed: WARNING! Language without script or locale: abs. Assuming no script or locale, but this is likely an error.
+Processing lang folder: /data/common/common_crawl/madlad/data/data-v1p5/nij
+WARNING! One of the languages couldn't be processed: WARNING! Language without script or locale: nij. Assuming no script or locale, but this is likely an error.
+Processing lang folder: /data/common/common_crawl/madlad/data/data-v1p5/xog
+WARNING! One of the languages couldn't be processed: WARNING! Language without script or locale: xog. Assuming no script or locale, but this is likely an error.
+Processing lang folder: /data/common/common_crawl/madlad/data/data-v1p5/gom
+WARNING! One of the languages couldn't be processed: WARNING! Language without script or locale: gom. Assuming no script or locale, but this is likely an error.
+Processing lang folder: /data/common/common_crawl/madlad/data/data-v1p5/kjg
+WARNING! One of the languages couldn't be processed: WARNING! Language without script or locale: kjg. Assuming no script or locale, but this is likely an error.
+Processing lang folder: /data/common/common_crawl/madlad/data/data-v1p5/gju
+WARNING! One of the languages couldn't be processed: WARNING! Language without script or locale: gju. Assuming no script or locale, but this is likely an error.
+Processing lang folder: /data/common/common_crawl/madlad/data/data-v1p5/ta
+WARNING! One of the languages couldn't be processed: WARNING! Language without script or locale: ta. Assuming no script or locale, but this is likely an error.
+Processing lang folder: /data/common/common_crawl/madlad/data/data-v1p5/tzj
+WARNING! One of the languages couldn't be processed: WARNING! Language without script or locale: tzj. Assuming no script or locale, but this is likely an error.
+Processing lang folder: /data/common/common_crawl/madlad/data/data-v1p5/mps
+WARNING! One of the languages couldn't be processed: WARNING! Language without script or locale: mps. Assuming no script or locale, but this is likely an error.
+Processing lang folder: /data/common/common_crawl/madlad/data/data-v1p5/tsc
+WARNING! One of the languages couldn't be processed: WARNING! Language without script or locale: tsc. Assuming no script or locale, but this is likely an error.
+Processing lang folder: /data/common/common_crawl/madlad/data/data-v1p5/fy
+WARNING! One of the languages couldn't be processed: WARNING! Language without script or locale: fy. Assuming no script or locale, but this is likely an error.
+Processing lang folder: /data/common/common_crawl/madlad/data/data-v1p5/sl
+WARNING! One of the languages couldn't be processed: WARNING! Language without script or locale: sl. Assuming no script or locale, but this is likely an error.
+Processing lang folder: /data/common/common_crawl/madlad/data/data-v1p5/war
+WARNING! One of the languages couldn't be processed: WARNING! Language without script or locale: war. Assuming no script or locale, but this is likely an error.
+Processing lang folder: /data/common/common_crawl/madlad/data/data-v1p5/ksw
+WARNING! One of the languages couldn't be processed: WARNING! Language without script or locale: ksw. Assuming no script or locale, but this is likely an error.
+Processing lang folder: /data/common/common_crawl/madlad/data/data-v1p5/hi
+WARNING! One of the languages couldn't be processed: WARNING! Language without script or locale: hi. Assuming no script or locale, but this is likely an error.
+Processing lang folder: /data/common/common_crawl/madlad/data/data-v1p5/sr
+WARNING! One of the languages couldn't be processed: WARNING! Language without script or locale: sr. Assuming no script or locale, but this is likely an error.
+Processing lang folder: /data/common/common_crawl/madlad/data/data-v1p5/mai
+WARNING! One of the languages couldn't be processed: WARNING! Language without script or locale: mai. Assuming no script or locale, but this is likely an error.
+Processing lang folder: /data/common/common_crawl/madlad/data/data-v1p5/rom
+WARNING! One of the languages couldn't be processed: WARNING! Language without script or locale: rom. Assuming no script or locale, but this is likely an error.
+Processing lang folder: /data/common/common_crawl/madlad/data/data-v1p5/ku
+WARNING! One of the languages couldn't be processed: WARNING! Language without script or locale: ku. Assuming no script or locale, but this is likely an error.
+Processing lang folder: /data/common/common_crawl/madlad/data/data-v1p5/stq
+WARNING! One of the languages couldn't be processed: WARNING! Language without script or locale: stq. Assuming no script or locale, but this is likely an error.
+Processing lang folder: /data/common/common_crawl/madlad/data/data-v1p5/tet
+WARNING! One of the languages couldn't be processed: WARNING! Language without script or locale: tet. Assuming no script or locale, but this is likely an error.
+Processing lang folder: /data/common/common_crawl/madlad/data/data-v1p5/eo
+WARNING! One of the languages couldn't be processed: WARNING! Language without script or locale: eo. Assuming no script or locale, but this is likely an error.
+Processing lang folder: /data/common/common_crawl/madlad/data/data-v1p5/ka
+WARNING! One of the languages couldn't be processed: WARNING! Language without script or locale: ka. Assuming no script or locale, but this is likely an error.
+Processing lang folder: /data/common/common_crawl/madlad/data/data-v1p5/vkt
+WARNING! One of the languages couldn't be processed: WARNING! Language without script or locale: vkt. Assuming no script or locale, but this is likely an error.
+Processing lang folder: /data/common/common_crawl/madlad/data/data-v1p5/ru_Latn
+Processing language: rus, script: Some("Latn"), locale: None
+Processing clean file: /data/common/common_crawl/madlad/data/data-v1p5/ru_Latn/clean_docs_v2-00009-of-00010.jsonl.gz
+Processing clean file: /data/common/common_crawl/madlad/data/data-v1p5/ru_Latn/clean_docs_v2-00002-of-00010.jsonl.gz
+Processing clean file: /data/common/common_crawl/madlad/data/data-v1p5/ru_Latn/clean_docs_v2-00003-of-00010.jsonl.gz
+Processing clean file: /data/common/common_crawl/madlad/data/data-v1p5/ru_Latn/clean_docs_v2-00008-of-00010.jsonl.gz
+Processing clean file: /data/common/common_crawl/madlad/data/data-v1p5/ru_Latn/clean_docs_v2-00007-of-00010.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/ru_Latn/noisy_docs_v2-00022-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/ru_Latn/noisy_docs_v2-00171-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/ru_Latn/noisy_docs_v2-00037-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/ru_Latn/noisy_docs_v2-00164-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/ru_Latn/noisy_docs_v2-00008-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/ru_Latn/noisy_docs_v2-00081-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/ru_Latn/noisy_docs_v2-00029-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/ru_Latn/noisy_docs_v2-00145-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/ru_Latn/noisy_docs_v2-00150-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/ru_Latn/noisy_docs_v2-00107-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/ru_Latn/noisy_docs_v2-00054-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/ru_Latn/noisy_docs_v2-00112-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/ru_Latn/noisy_docs_v2-00185-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/ru_Latn/noisy_docs_v2-00138-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/ru_Latn/noisy_docs_v2-00133-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/ru_Latn/noisy_docs_v2-00126-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/ru_Latn/noisy_docs_v2-00075-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/ru_Latn/noisy_docs_v2-00066-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/ru_Latn/noisy_docs_v2-00188-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/ru_Latn/noisy_docs_v2-00135-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/ru_Latn/noisy_docs_v2-00073-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/ru_Latn/noisy_docs_v2-00059-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/ru_Latn/noisy_docs_v2-00196-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/ru_Latn/noisy_docs_v2-00078-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/ru_Latn/noisy_docs_v2-00183-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/ru_Latn/noisy_docs_v2-00052-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/ru_Latn/noisy_docs_v2-00047-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/ru_Latn/noisy_docs_v2-00114-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/ru_Latn/noisy_docs_v2-00005-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/ru_Latn/noisy_docs_v2-00169-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/ru_Latn/noisy_docs_v2-00092-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/ru_Latn/noisy_docs_v2-00177-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/ru_Latn/noisy_docs_v2-00024-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/ru_Latn/noisy_docs_v2-00099-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/ru_Latn/noisy_docs_v2-00162-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/ru_Latn/noisy_docs_v2-00017-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/ru_Latn/noisy_docs_v2-00151-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/ru_Latn/noisy_docs_v2-00002-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/ru_Latn/noisy_docs_v2-00080-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/ru_Latn/noisy_docs_v2-00028-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/ru_Latn/noisy_docs_v2-00170-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/ru_Latn/noisy_docs_v2-00023-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/ru_Latn/noisy_docs_v2-00036-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/ru_Latn/noisy_docs_v2-00061-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/ru_Latn/noisy_docs_v2-00132-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/ru_Latn/noisy_docs_v2-00074-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/ru_Latn/noisy_docs_v2-00127-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/ru_Latn/noisy_docs_v2-00118-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/ru_Latn/noisy_docs_v2-00191-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/ru_Latn/noisy_docs_v2-00184-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/ru_Latn/noisy_docs_v2-00055-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/ru_Latn/noisy_docs_v2-00106-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/ru_Latn/noisy_docs_v2-00040-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/ru_Latn/noisy_docs_v2-00113-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/ru_Latn/noisy_docs_v2-00100-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/ru_Latn/noisy_docs_v2-00053-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/ru_Latn/noisy_docs_v2-00046-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/ru_Latn/noisy_docs_v2-00079-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/ru_Latn/noisy_docs_v2-00182-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/ru_Latn/noisy_docs_v2-00058-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/ru_Latn/noisy_docs_v2-00134-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/ru_Latn/noisy_docs_v2-00121-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/ru_Latn/noisy_docs_v2-00025-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/ru_Latn/noisy_docs_v2-00176-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/ru_Latn/noisy_docs_v2-00163-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/ru_Latn/noisy_docs_v2-00168-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/ru_Latn/noisy_docs_v2-00093-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/ru_Latn/noisy_docs_v2-00011-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/ru_Latn/noisy_docs_v2-00142-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/ru_Latn/noisy_docs_v2-00004-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/ru_Latn/noisy_docs_v2-00199-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/ru_Latn/noisy_docs_v2-00077-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/ru_Latn/noisy_docs_v2-00131-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/ru_Latn/noisy_docs_v2-00062-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/ru_Latn/noisy_docs_v2-00105-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/ru_Latn/noisy_docs_v2-00056-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/ru_Latn/noisy_docs_v2-00069-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/ru_Latn/noisy_docs_v2-00187-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/ru_Latn/noisy_docs_v2-00192-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/ru_Latn/noisy_docs_v2-00178-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/ru_Latn/noisy_docs_v2-00096-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/ru_Latn/noisy_docs_v2-00083-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/ru_Latn/noisy_docs_v2-00001-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/ru_Latn/noisy_docs_v2-00152-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/ru_Latn/noisy_docs_v2-00088-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/ru_Latn/noisy_docs_v2-00166-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/ru_Latn/noisy_docs_v2-00020-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/ru_Latn/noisy_docs_v2-00173-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/ru_Latn/noisy_docs_v2-00019-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/ru_Latn/noisy_docs_v2-00160-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/ru_Latn/noisy_docs_v2-00033-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/ru_Latn/noisy_docs_v2-00175-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/ru_Latn/noisy_docs_v2-00154-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/ru_Latn/noisy_docs_v2-00007-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/ru_Latn/noisy_docs_v2-00141-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/ru_Latn/noisy_docs_v2-00012-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/ru_Latn/noisy_docs_v2-00090-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/ru_Latn/noisy_docs_v2-00038-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/ru_Latn/noisy_docs_v2-00181-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/ru_Latn/noisy_docs_v2-00194-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/ru_Latn/noisy_docs_v2-00116-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/ru_Latn/noisy_docs_v2-00103-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/ru_Latn/noisy_docs_v2-00122-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/ru_Latn/noisy_docs_v2-00068-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/ru_Latn/noisy_docs_v2-00193-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/ru_Latn/noisy_docs_v2-00111-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/ru_Latn/noisy_docs_v2-00057-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/ru_Latn/noisy_docs_v2-00104-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/ru_Latn/noisy_docs_v2-00076-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/ru_Latn/noisy_docs_v2-00063-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/ru_Latn/noisy_docs_v2-00049-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/ru_Latn/noisy_docs_v2-00167-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/ru_Latn/noisy_docs_v2-00153-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/ru_Latn/noisy_docs_v2-00000-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/ru_Latn/noisy_docs_v2-00015-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/ru_Latn/noisy_docs_v2-00097-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/ru_Latn/noisy_docs_v2-00179-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/ru_Latn/noisy_docs_v2-00082-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/ru_Latn/noisy_docs_v2-00039-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/ru_Latn/noisy_docs_v2-00006-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/ru_Latn/noisy_docs_v2-00155-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/ru_Latn/noisy_docs_v2-00140-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/ru_Latn/noisy_docs_v2-00161-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/ru_Latn/noisy_docs_v2-00174-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/ru_Latn/noisy_docs_v2-00018-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/ru_Latn/noisy_docs_v2-00123-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/ru_Latn/noisy_docs_v2-00070-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/ru_Latn/noisy_docs_v2-00136-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/ru_Latn/noisy_docs_v2-00065-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/ru_Latn/noisy_docs_v2-00044-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/ru_Latn/noisy_docs_v2-00102-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/ru_Latn/noisy_docs_v2-00180-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/ru_Latn/noisy_docs_v2-00128-of-00200.jsonl.gz
+Processing lang folder: /data/common/common_crawl/madlad/data/data-v1p5/ee
+WARNING! One of the languages couldn't be processed: WARNING! Language without script or locale: ee. Assuming no script or locale, but this is likely an error.
+Processing lang folder: /data/common/common_crawl/madlad/data/data-v1p5/pam
+WARNING! One of the languages couldn't be processed: WARNING! Language without script or locale: pam. Assuming no script or locale, but this is likely an error.
+Processing lang folder: /data/common/common_crawl/madlad/data/data-v1p5/kk
+WARNING! One of the languages couldn't be processed: WARNING! Language without script or locale: kk. Assuming no script or locale, but this is likely an error.
+Processing lang folder: /data/common/common_crawl/madlad/data/data-v1p5/la
+WARNING! One of the languages couldn't be processed: WARNING! Language without script or locale: la. Assuming no script or locale, but this is likely an error.
+Processing lang folder: /data/common/common_crawl/madlad/data/data-v1p5/pon
+WARNING! One of the languages couldn't be processed: WARNING! Language without script or locale: pon. Assuming no script or locale, but this is likely an error.
+Processing lang folder: /data/common/common_crawl/madlad/data/data-v1p5/bo
+WARNING! One of the languages couldn't be processed: WARNING! Language without script or locale: bo. Assuming no script or locale, but this is likely an error.
+Processing lang folder: /data/common/common_crawl/madlad/data/data-v1p5/msb
+WARNING! One of the languages couldn't be processed: WARNING! Language without script or locale: msb. Assuming no script or locale, but this is likely an error.
+Processing lang folder: /data/common/common_crawl/madlad/data/data-v1p5/maz
+WARNING! One of the languages couldn't be processed: WARNING! Language without script or locale: maz. Assuming no script or locale, but this is likely an error.
+Processing lang folder: /data/common/common_crawl/madlad/data/data-v1p5/kl
+WARNING! One of the languages couldn't be processed: WARNING! Language without script or locale: kl. Assuming no script or locale, but this is likely an error.
+Processing lang folder: /data/common/common_crawl/madlad/data/data-v1p5/be
+WARNING! One of the languages couldn't be processed: WARNING! Language without script or locale: be. Assuming no script or locale, but this is likely an error.
+Processing lang folder: /data/common/common_crawl/madlad/data/data-v1p5/vec
+WARNING! One of the languages couldn't be processed: WARNING! Language without script or locale: vec. Assuming no script or locale, but this is likely an error.
+Processing lang folder: /data/common/common_crawl/madlad/data/data-v1p5/kmz_Latn
+Processing language: kmz, script: Some("Latn"), locale: None
+Processing clean file: /data/common/common_crawl/madlad/data/data-v1p5/kmz_Latn/clean_docs_v2-00003-of-00010.jsonl.gz
+Processing clean file: /data/common/common_crawl/madlad/data/data-v1p5/kmz_Latn/clean_docs_v2-00005-of-00010.jsonl.gz
+Processing clean file: /data/common/common_crawl/madlad/data/data-v1p5/kmz_Latn/clean_docs_v2-00004-of-00010.jsonl.gz
+Processing clean file: /data/common/common_crawl/madlad/data/data-v1p5/kmz_Latn/clean_docs_v2-00001-of-00010.jsonl.gz
+Processing clean file: /data/common/common_crawl/madlad/data/data-v1p5/kmz_Latn/clean_docs_v2-00000-of-00010.jsonl.gz
+Processing clean file: /data/common/common_crawl/madlad/data/data-v1p5/kmz_Latn/clean_docs_v2-00006-of-00010.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/kmz_Latn/noisy_docs_v2-00005-of-00010.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/kmz_Latn/noisy_docs_v2-00004-of-00010.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/kmz_Latn/noisy_docs_v2-00007-of-00010.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/kmz_Latn/noisy_docs_v2-00001-of-00010.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/kmz_Latn/noisy_docs_v2-00006-of-00010.jsonl.gz
+Processing lang folder: /data/common/common_crawl/madlad/data/data-v1p5/lu
+WARNING! One of the languages couldn't be processed: WARNING! Language without script or locale: lu. Assuming no script or locale, but this is likely an error.
+Processing lang folder: /data/common/common_crawl/madlad/data/data-v1p5/mtq
+WARNING! One of the languages couldn't be processed: WARNING! Language without script or locale: mtq. Assuming no script or locale, but this is likely an error.
+Processing lang folder: /data/common/common_crawl/madlad/data/data-v1p5/yua
+WARNING! One of the languages couldn't be processed: WARNING! Language without script or locale: yua. Assuming no script or locale, but this is likely an error.
+Processing lang folder: /data/common/common_crawl/madlad/data/data-v1p5/tab
+WARNING! One of the languages couldn't be processed: WARNING! Language without script or locale: tab. Assuming no script or locale, but this is likely an error.
+Processing lang folder: /data/common/common_crawl/madlad/data/data-v1p5/meu
+WARNING! One of the languages couldn't be processed: WARNING! Language without script or locale: meu. Assuming no script or locale, but this is likely an error.
+Processing lang folder: /data/common/common_crawl/madlad/data/data-v1p5/hi_Latn
+Processing language: hin, script: Some("Latn"), locale: None
+Processing clean file: /data/common/common_crawl/madlad/data/data-v1p5/hi_Latn/clean_docs_v2-00002-of-00010.jsonl.gz
+Processing clean file: /data/common/common_crawl/madlad/data/data-v1p5/hi_Latn/clean_docs_v2-00008-of-00010.jsonl.gz_.gstmp
+WARNING! Error reading line in file /data/common/common_crawl/madlad/data/data-v1p5/hi_Latn/clean_docs_v2-00008-of-00010.jsonl.gz_.gstmp: unexpected end of file
+Processing clean file: /data/common/common_crawl/madlad/data/data-v1p5/hi_Latn/clean_docs_v2-00004-of-00010.jsonl.gz
+Processing clean file: /data/common/common_crawl/madlad/data/data-v1p5/hi_Latn/clean_docs_v2-00003-of-00010.jsonl.gz
+Processing clean file: /data/common/common_crawl/madlad/data/data-v1p5/hi_Latn/clean_docs_v2-00005-of-00010.jsonl.gz
+Processing clean file: /data/common/common_crawl/madlad/data/data-v1p5/hi_Latn/clean_docs_v2-00000-of-00010.jsonl.gz
+Processing clean file: /data/common/common_crawl/madlad/data/data-v1p5/hi_Latn/clean_docs_v2-00006-of-00010.jsonl.gz
+Processing clean file: /data/common/common_crawl/madlad/data/data-v1p5/hi_Latn/clean_docs_v2-00001-of-00010.jsonl.gz
+Processing clean file: /data/common/common_crawl/madlad/data/data-v1p5/hi_Latn/clean_docs_v2-00007-of-00010.jsonl.gz
+Processing lang folder: /data/common/common_crawl/madlad/data/data-v1p5/oc
+WARNING! One of the languages couldn't be processed: WARNING! Language without script or locale: oc. Assuming no script or locale, but this is likely an error.
+Processing lang folder: /data/common/common_crawl/madlad/data/data-v1p5/am
+WARNING! One of the languages couldn't be processed: WARNING! Language without script or locale: am. Assuming no script or locale, but this is likely an error.
+Processing lang folder: /data/common/common_crawl/madlad/data/data-v1p5/fj
+WARNING! One of the languages couldn't be processed: WARNING! Language without script or locale: fj. Assuming no script or locale, but this is likely an error.
+Processing lang folder: /data/common/common_crawl/madlad/data/data-v1p5/ctd_Latn
+Processing language: ctd, script: Some("Latn"), locale: None
+Processing clean file: /data/common/common_crawl/madlad/data/data-v1p5/ctd_Latn/clean_docs_v2-00007-of-00010.jsonl.gz
+Processing clean file: /data/common/common_crawl/madlad/data/data-v1p5/ctd_Latn/clean_docs_v2-00006-of-00010.jsonl.gz
+Processing clean file: /data/common/common_crawl/madlad/data/data-v1p5/ctd_Latn/clean_docs_v2-00000-of-00010.jsonl.gz
+Processing clean file: /data/common/common_crawl/madlad/data/data-v1p5/ctd_Latn/clean_docs_v2-00008-of-00010.jsonl.gz
+Processing clean file: /data/common/common_crawl/madlad/data/data-v1p5/ctd_Latn/clean_docs_v2-00003-of-00010.jsonl.gz
+Processing clean file: /data/common/common_crawl/madlad/data/data-v1p5/ctd_Latn/clean_docs_v2-00004-of-00010.jsonl.gz
+Processing clean file: /data/common/common_crawl/madlad/data/data-v1p5/ctd_Latn/clean_docs_v2-00002-of-00010.jsonl.gz
+Processing clean file: /data/common/common_crawl/madlad/data/data-v1p5/ctd_Latn/clean_docs_v2-00009-of-00010.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/ctd_Latn/noisy_docs_v2-00000-of-00010.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/ctd_Latn/noisy_docs_v2-00006-of-00010.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/ctd_Latn/noisy_docs_v2-00005-of-00010.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/ctd_Latn/noisy_docs_v2-00009-of-00010.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/ctd_Latn/noisy_docs_v2-00002-of-00010.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/ctd_Latn/noisy_docs_v2-00004-of-00010.jsonl.gz
+Processing lang folder: /data/common/common_crawl/madlad/data/data-v1p5/tr
+WARNING! One of the languages couldn't be processed: WARNING! Language without script or locale: tr. Assuming no script or locale, but this is likely an error.
+Processing lang folder: /data/common/common_crawl/madlad/data/data-v1p5/su
+WARNING! One of the languages couldn't be processed: WARNING! Language without script or locale: su. Assuming no script or locale, but this is likely an error.
+Processing lang folder: /data/common/common_crawl/madlad/data/data-v1p5/agr
+WARNING! One of the languages couldn't be processed: WARNING! Language without script or locale: agr. Assuming no script or locale, but this is likely an error.
+Processing lang folder: /data/common/common_crawl/madlad/data/data-v1p5/as
+WARNING! One of the languages couldn't be processed: WARNING! Language without script or locale: as. Assuming no script or locale, but this is likely an error.
+Processing lang folder: /data/common/common_crawl/madlad/data/data-v1p5/zh
+WARNING! One of the languages couldn't be processed: WARNING! Language without script or locale: zh. Assuming no script or locale, but this is likely an error.
+Processing lang folder: /data/common/common_crawl/madlad/data/data-v1p5/en_Cyrl
+Processing language: eng, script: Some("Cyrl"), locale: None
+Processing clean file: /data/common/common_crawl/madlad/data/data-v1p5/en_Cyrl/clean_docs_v2-00005-of-00010.jsonl.gz
+Processing clean file: /data/common/common_crawl/madlad/data/data-v1p5/en_Cyrl/clean_docs_v2-00003-of-00010.jsonl.gz
+Processing clean file: /data/common/common_crawl/madlad/data/data-v1p5/en_Cyrl/clean_docs_v2-00000-of-00010.jsonl.gz
+Processing clean file: /data/common/common_crawl/madlad/data/data-v1p5/en_Cyrl/clean_docs_v2-00007-of-00010.jsonl.gz
+Processing clean file: /data/common/common_crawl/madlad/data/data-v1p5/en_Cyrl/clean_docs_v2-00001-of-00010.jsonl.gz
+Processing lang folder: /data/common/common_crawl/madlad/data/data-v1p5/sk
+WARNING! One of the languages couldn't be processed: WARNING! Language without script or locale: sk. Assuming no script or locale, but this is likely an error.
+Processing lang folder: /data/common/common_crawl/madlad/data/data-v1p5/gu_Latn
+Processing language: guj, script: Some("Latn"), locale: None
+Processing clean file: /data/common/common_crawl/madlad/data/data-v1p5/gu_Latn/clean_docs_v2-00001-of-00010.jsonl.gz
+Processing clean file: /data/common/common_crawl/madlad/data/data-v1p5/gu_Latn/clean_docs_v2-00000-of-00010.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/gu_Latn/noisy_docs_v2-00009-of-00010.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/gu_Latn/noisy_docs_v2-00001-of-00010.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/gu_Latn/noisy_docs_v2-00007-of-00010.jsonl.gz
+Processing lang folder: /data/common/common_crawl/madlad/data/data-v1p5/da
+WARNING! One of the languages couldn't be processed: WARNING! Language without script or locale: da. Assuming no script or locale, but this is likely an error.
+Processing lang folder: /data/common/common_crawl/madlad/data/data-v1p5/mnw
+WARNING! One of the languages couldn't be processed: WARNING! Language without script or locale: mnw. Assuming no script or locale, but this is likely an error.
+Processing lang folder: /data/common/common_crawl/madlad/data/data-v1p5/alz
+WARNING! One of the languages couldn't be processed: WARNING! Language without script or locale: alz. Assuming no script or locale, but this is likely an error.
+Processing lang folder: /data/common/common_crawl/madlad/data/data-v1p5/min
+WARNING! One of the languages couldn't be processed: WARNING! Language without script or locale: min. Assuming no script or locale, but this is likely an error.
+Processing lang folder: /data/common/common_crawl/madlad/data/data-v1p5/mni
+WARNING! One of the languages couldn't be processed: WARNING! Language without script or locale: mni. Assuming no script or locale, but this is likely an error.
+Processing lang folder: /data/common/common_crawl/madlad/data/data-v1p5/doi
+WARNING! One of the languages couldn't be processed: WARNING! Language without script or locale: doi. Assuming no script or locale, but this is likely an error.
+Processing lang folder: /data/common/common_crawl/madlad/data/data-v1p5/hmn
+WARNING! One of the languages couldn't be processed: WARNING! Language without script or locale: hmn. Assuming no script or locale, but this is likely an error.
+Processing lang folder: /data/common/common_crawl/madlad/data/data-v1p5/pck
+WARNING! One of the languages couldn't be processed: WARNING! Language without script or locale: pck. Assuming no script or locale, but this is likely an error.
+Processing lang folder: /data/common/common_crawl/madlad/data/data-v1p5/azg
+WARNING! One of the languages couldn't be processed: WARNING! Language without script or locale: azg. Assuming no script or locale, but this is likely an error.
+Processing lang folder: /data/common/common_crawl/madlad/data/data-v1p5/tiv
+WARNING! One of the languages couldn't be processed: WARNING! Language without script or locale: tiv. Assuming no script or locale, but this is likely an error.
+Processing lang folder: /data/common/common_crawl/madlad/data/data-v1p5/ahk
+WARNING! One of the languages couldn't be processed: WARNING! Language without script or locale: ahk. Assuming no script or locale, but this is likely an error.
+Processing lang folder: /data/common/common_crawl/madlad/data/data-v1p5/mdh
+WARNING! One of the languages couldn't be processed: WARNING! Language without script or locale: mdh. Assuming no script or locale, but this is likely an error.
+Processing lang folder: /data/common/common_crawl/madlad/data/data-v1p5/ja_Latn
+Processing language: jpn, script: Some("Latn"), locale: None
+Processing clean file: /data/common/common_crawl/madlad/data/data-v1p5/ja_Latn/clean_docs_v2-00009-of-00010.jsonl.gz
+Processing clean file: /data/common/common_crawl/madlad/data/data-v1p5/ja_Latn/clean_docs_v2-00003-of-00010.jsonl.gz
+Processing clean file: /data/common/common_crawl/madlad/data/data-v1p5/ja_Latn/clean_docs_v2-00008-of-00010.jsonl.gz
+Processing clean file: /data/common/common_crawl/madlad/data/data-v1p5/ja_Latn/clean_docs_v2-00007-of-00010.jsonl.gz
+Processing lang folder: /data/common/common_crawl/madlad/data/data-v1p5/krc
+WARNING! One of the languages couldn't be processed: WARNING! Language without script or locale: krc. Assuming no script or locale, but this is likely an error.
+Processing lang folder: /data/common/common_crawl/madlad/data/data-v1p5/uk
+WARNING! One of the languages couldn't be processed: WARNING! Language without script or locale: uk. Assuming no script or locale, but this is likely an error.
+Processing lang folder: /data/common/common_crawl/madlad/data/data-v1p5/kri
+WARNING! One of the languages couldn't be processed: WARNING! Language without script or locale: kri. Assuming no script or locale, but this is likely an error.
+Processing lang folder: /data/common/common_crawl/madlad/data/data-v1p5/iw
+WARNING! One of the languages couldn't be processed: 'iw' is not a valid ISO 639-1 or 639-3 code.
+Processing lang folder: /data/common/common_crawl/madlad/data/data-v1p5/gym
+WARNING! One of the languages couldn't be processed: WARNING! Language without script or locale: gym. Assuming no script or locale, but this is likely an error.
+Processing lang folder: /data/common/common_crawl/madlad/data/data-v1p5/ja
+WARNING! One of the languages couldn't be processed: WARNING! Language without script or locale: ja. Assuming no script or locale, but this is likely an error.
+Processing lang folder: /data/common/common_crawl/madlad/data/data-v1p5/udm
+WARNING! One of the languages couldn't be processed: WARNING! Language without script or locale: udm. Assuming no script or locale, but this is likely an error.
+Processing lang folder: /data/common/common_crawl/madlad/data/data-v1p5/zap
+WARNING! One of the languages couldn't be processed: WARNING! Language without script or locale: zap. Assuming no script or locale, but this is likely an error.
+Processing lang folder: /data/common/common_crawl/madlad/data/data-v1p5/zza
+WARNING! One of the languages couldn't be processed: WARNING! Language without script or locale: zza. Assuming no script or locale, but this is likely an error.
+Processing lang folder: /data/common/common_crawl/madlad/data/data-v1p5/ml
+WARNING! One of the languages couldn't be processed: WARNING! Language without script or locale: ml. Assuming no script or locale, but this is likely an error.
+Processing lang folder: /data/common/common_crawl/madlad/data/data-v1p5/de
+WARNING! One of the languages couldn't be processed: WARNING! Language without script or locale: de. Assuming no script or locale, but this is likely an error.
+Processing lang folder: /data/common/common_crawl/madlad/data/data-v1p5/mr
+WARNING! One of the languages couldn't be processed: WARNING! Language without script or locale: mr. Assuming no script or locale, but this is likely an error.
+Processing lang folder: /data/common/common_crawl/madlad/data/data-v1p5/vi
+WARNING! One of the languages couldn't be processed: WARNING! Language without script or locale: vi. Assuming no script or locale, but this is likely an error.
+Processing lang folder: /data/common/common_crawl/madlad/data/data-v1p5/sq
+WARNING! One of the languages couldn't be processed: WARNING! Language without script or locale: sq. Assuming no script or locale, but this is likely an error.
+Processing lang folder: /data/common/common_crawl/madlad/data/data-v1p5/om
+WARNING! One of the languages couldn't be processed: WARNING! Language without script or locale: om. Assuming no script or locale, but this is likely an error.
+Processing lang folder: /data/common/common_crawl/madlad/data/data-v1p5/crs
+WARNING! One of the languages couldn't be processed: WARNING! Language without script or locale: crs. Assuming no script or locale, but this is likely an error.
+Processing lang folder: /data/common/common_crawl/madlad/data/data-v1p5/so
+WARNING! One of the languages couldn't be processed: WARNING! Language without script or locale: so. Assuming no script or locale, but this is likely an error.
+Processing lang folder: /data/common/common_crawl/madlad/data/data-v1p5/th
+WARNING! One of the languages couldn't be processed: WARNING! Language without script or locale: th. Assuming no script or locale, but this is likely an error.
+Processing lang folder: /data/common/common_crawl/madlad/data/data-v1p5/os
+WARNING! One of the languages couldn't be processed: WARNING! Language without script or locale: os. Assuming no script or locale, but this is likely an error.
+Processing lang folder: /data/common/common_crawl/madlad/data/data-v1p5/djk
+WARNING! One of the languages couldn't be processed: WARNING! Language without script or locale: djk. Assuming no script or locale, but this is likely an error.
+Processing lang folder: /data/common/common_crawl/madlad/data/data-v1p5/gom_Latn
+Processing language: gom, script: Some("Latn"), locale: None
+Processing clean file: /data/common/common_crawl/madlad/data/data-v1p5/gom_Latn/clean_docs_v2-00008-of-00010.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/gom_Latn/noisy_docs_v2-00005-of-00010.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/gom_Latn/noisy_docs_v2-00008-of-00010.jsonl.gz
+Processing lang folder: /data/common/common_crawl/madlad/data/data-v1p5/meo
+WARNING! One of the languages couldn't be processed: WARNING! Language without script or locale: meo. Assuming no script or locale, but this is likely an error.
+Processing lang folder: /data/common/common_crawl/madlad/data/data-v1p5/seh
+WARNING! One of the languages couldn't be processed: WARNING! Language without script or locale: seh. Assuming no script or locale, but this is likely an error.
+Processing lang folder: /data/common/common_crawl/madlad/data/data-v1p5/ba
+WARNING! One of the languages couldn't be processed: WARNING! Language without script or locale: ba. Assuming no script or locale, but this is likely an error.
+Processing lang folder: /data/common/common_crawl/madlad/data/data-v1p5/lo
+WARNING! One of the languages couldn't be processed: WARNING! Language without script or locale: lo. Assuming no script or locale, but this is likely an error.
+Processing lang folder: /data/common/common_crawl/madlad/data/data-v1p5/ps
+WARNING! One of the languages couldn't be processed: WARNING! Language without script or locale: ps. Assuming no script or locale, but this is likely an error.
+Processing lang folder: /data/common/common_crawl/madlad/data/data-v1p5/shp
+WARNING! One of the languages couldn't be processed: WARNING! Language without script or locale: shp. Assuming no script or locale, but this is likely an error.
+Processing lang folder: /data/common/common_crawl/madlad/data/data-v1p5/nog
+WARNING! One of the languages couldn't be processed: WARNING! Language without script or locale: nog. Assuming no script or locale, but this is likely an error.
+Processing lang folder: /data/common/common_crawl/madlad/data/data-v1p5/el
+WARNING! One of the languages couldn't be processed: WARNING! Language without script or locale: el. Assuming no script or locale, but this is likely an error.
+Processing lang folder: /data/common/common_crawl/madlad/data/data-v1p5/yue
+WARNING! One of the languages couldn't be processed: WARNING! Language without script or locale: yue. Assuming no script or locale, but this is likely an error.
+Processing lang folder: /data/common/common_crawl/madlad/data/data-v1p5/gub
+WARNING! One of the languages couldn't be processed: WARNING! Language without script or locale: gub. Assuming no script or locale, but this is likely an error.
+Processing lang folder: /data/common/common_crawl/madlad/data/data-v1p5/pap
+WARNING! One of the languages couldn't be processed: WARNING! Language without script or locale: pap. Assuming no script or locale, but this is likely an error.
+Processing lang folder: /data/common/common_crawl/madlad/data/data-v1p5/guh
+WARNING! One of the languages couldn't be processed: WARNING! Language without script or locale: guh. Assuming no script or locale, but this is likely an error.
+Processing lang folder: /data/common/common_crawl/madlad/data/data-v1p5/bn_Latn
+Processing language: ben, script: Some("Latn"), locale: None
+Processing clean file: /data/common/common_crawl/madlad/data/data-v1p5/bn_Latn/clean_docs_v2-00008-of-00010.jsonl.gz
+Processing clean file: /data/common/common_crawl/madlad/data/data-v1p5/bn_Latn/clean_docs_v2-00003-of-00010.jsonl.gz
+Processing clean file: /data/common/common_crawl/madlad/data/data-v1p5/bn_Latn/clean_docs_v2-00005-of-00010.jsonl.gz
+Processing clean file: /data/common/common_crawl/madlad/data/data-v1p5/bn_Latn/clean_docs_v2-00002-of-00010.jsonl.gz
+Processing clean file: /data/common/common_crawl/madlad/data/data-v1p5/bn_Latn/clean_docs_v2-00009-of-00010.jsonl.gz
+Processing clean file: /data/common/common_crawl/madlad/data/data-v1p5/bn_Latn/clean_docs_v2-00001-of-00010.jsonl.gz
+Processing clean file: /data/common/common_crawl/madlad/data/data-v1p5/bn_Latn/clean_docs_v2-00007-of-00010.jsonl.gz
+Processing clean file: /data/common/common_crawl/madlad/data/data-v1p5/bn_Latn/clean_docs_v2-00000-of-00010.jsonl.gz
+Processing clean file: /data/common/common_crawl/madlad/data/data-v1p5/bn_Latn/clean_docs_v2-00006-of-00010.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/bn_Latn/noisy_docs_v2-00005-of-00010.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/bn_Latn/noisy_docs_v2-00003-of-00010.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/bn_Latn/noisy_docs_v2-00008-of-00010.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/bn_Latn/noisy_docs_v2-00004-of-00010.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/bn_Latn/noisy_docs_v2-00009-of-00010.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/bn_Latn/noisy_docs_v2-00002-of-00010.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/bn_Latn/noisy_docs_v2-00007-of-00010.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/bn_Latn/noisy_docs_v2-00001-of-00010.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/bn_Latn/noisy_docs_v2-00006-of-00010.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/bn_Latn/noisy_docs_v2-00000-of-00010.jsonl.gz
+Processing lang folder: /data/common/common_crawl/madlad/data/data-v1p5/tks
+WARNING! One of the languages couldn't be processed: WARNING! Language without script or locale: tks. Assuming no script or locale, but this is likely an error.
+Processing lang folder: /data/common/common_crawl/madlad/data/data-v1p5/nso
+WARNING! One of the languages couldn't be processed: WARNING! Language without script or locale: nso. Assuming no script or locale, but this is likely an error.
+Processing lang folder: /data/common/common_crawl/madlad/data/data-v1p5/mag
+WARNING! One of the languages couldn't be processed: WARNING! Language without script or locale: mag. Assuming no script or locale, but this is likely an error.
+Processing lang folder: /data/common/common_crawl/madlad/data/data-v1p5/laj
+WARNING! One of the languages couldn't be processed: WARNING! Language without script or locale: laj. Assuming no script or locale, but this is likely an error.
+Processing lang folder: /data/common/common_crawl/madlad/data/data-v1p5/mtr
+WARNING! One of the languages couldn't be processed: WARNING! Language without script or locale: mtr. Assuming no script or locale, but this is likely an error.
+Processing lang folder: /data/common/common_crawl/madlad/data/data-v1p5/lv
+WARNING! One of the languages couldn't be processed: WARNING! Language without script or locale: lv. Assuming no script or locale, but this is likely an error.
+Processing lang folder: /data/common/common_crawl/madlad/data/data-v1p5/eu
+WARNING! One of the languages couldn't be processed: WARNING! Language without script or locale: eu. Assuming no script or locale, but this is likely an error.
+Processing lang folder: /data/common/common_crawl/madlad/data/data-v1p5/br
+WARNING! One of the languages couldn't be processed: WARNING! Language without script or locale: br. Assuming no script or locale, but this is likely an error.
+Processing lang folder: /data/common/common_crawl/madlad/data/data-v1p5/yi
+WARNING! One of the languages couldn't be processed: WARNING! Language without script or locale: yi. Assuming no script or locale, but this is likely an error.
+Processing lang folder: /data/common/common_crawl/madlad/data/data-v1p5/ko
+WARNING! One of the languages couldn't be processed: WARNING! Language without script or locale: ko. Assuming no script or locale, but this is likely an error.
+Processing lang folder: /data/common/common_crawl/madlad/data/data-v1p5/pt
+WARNING! One of the languages couldn't be processed: WARNING! Language without script or locale: pt. Assuming no script or locale, but this is likely an error.
+Processing lang folder: /data/common/common_crawl/madlad/data/data-v1p5/bmm
+WARNING! One of the languages couldn't be processed: WARNING! Language without script or locale: bmm. Assuming no script or locale, but this is likely an error.
+Processing lang folder: /data/common/common_crawl/madlad/data/data-v1p5/ady
+WARNING! One of the languages couldn't be processed: WARNING! Language without script or locale: ady. Assuming no script or locale, but this is likely an error.
+Processing lang folder: /data/common/common_crawl/madlad/data/data-v1p5/mas
+WARNING! One of the languages couldn't be processed: WARNING! Language without script or locale: mas. Assuming no script or locale, but this is likely an error.
+Processing lang folder: /data/common/common_crawl/madlad/data/data-v1p5/bci
+WARNING! One of the languages couldn't be processed: WARNING! Language without script or locale: bci. Assuming no script or locale, but this is likely an error.
+Processing lang folder: /data/common/common_crawl/madlad/data/data-v1p5/lb
+WARNING! One of the languages couldn't be processed: WARNING! Language without script or locale: lb. Assuming no script or locale, but this is likely an error.
+Processing lang folder: /data/common/common_crawl/madlad/data/data-v1p5/za
+WARNING! One of the languages couldn't be processed: WARNING! Language without script or locale: za. Assuming no script or locale, but this is likely an error.
+Processing lang folder: /data/common/common_crawl/madlad/data/data-v1p5/az
+WARNING! One of the languages couldn't be processed: WARNING! Language without script or locale: az. Assuming no script or locale, but this is likely an error.
+Processing lang folder: /data/common/common_crawl/madlad/data/data-v1p5/tsg
+WARNING! One of the languages couldn't be processed: WARNING! Language without script or locale: tsg. Assuming no script or locale, but this is likely an error.
+Processing lang folder: /data/common/common_crawl/madlad/data/data-v1p5/rhg_Latn
+Processing language: rhg, script: Some("Latn"), locale: None
+Processing clean file: /data/common/common_crawl/madlad/data/data-v1p5/rhg_Latn/clean_docs_v2-00007-of-00010.jsonl.gz
+Processing clean file: /data/common/common_crawl/madlad/data/data-v1p5/rhg_Latn/clean_docs_v2-00001-of-00010.jsonl.gz
+Processing clean file: /data/common/common_crawl/madlad/data/data-v1p5/rhg_Latn/clean_docs_v2-00006-of-00010.jsonl.gz
+Processing clean file: /data/common/common_crawl/madlad/data/data-v1p5/rhg_Latn/clean_docs_v2-00000-of-00010.jsonl.gz
+Processing clean file: /data/common/common_crawl/madlad/data/data-v1p5/rhg_Latn/clean_docs_v2-00005-of-00010.jsonl.gz
+Processing clean file: /data/common/common_crawl/madlad/data/data-v1p5/rhg_Latn/clean_docs_v2-00003-of-00010.jsonl.gz
+Processing clean file: /data/common/common_crawl/madlad/data/data-v1p5/rhg_Latn/clean_docs_v2-00008-of-00010.jsonl.gz
+Processing clean file: /data/common/common_crawl/madlad/data/data-v1p5/rhg_Latn/clean_docs_v2-00004-of-00010.jsonl.gz
+Processing lang folder: /data/common/common_crawl/madlad/data/data-v1p5/ndc_ZW
+Processing language: ndc, script: None, locale: Some("ZW")
+Processing clean file: /data/common/common_crawl/madlad/data/data-v1p5/ndc_ZW/clean_docs_v2-00006-of-00010.jsonl.gz
+Processing clean file: /data/common/common_crawl/madlad/data/data-v1p5/ndc_ZW/clean_docs_v2-00000-of-00010.jsonl.gz
+Processing clean file: /data/common/common_crawl/madlad/data/data-v1p5/ndc_ZW/clean_docs_v2-00007-of-00010.jsonl.gz
+Processing clean file: /data/common/common_crawl/madlad/data/data-v1p5/ndc_ZW/clean_docs_v2-00001-of-00010.jsonl.gz
+Processing clean file: /data/common/common_crawl/madlad/data/data-v1p5/ndc_ZW/clean_docs_v2-00004-of-00010.jsonl.gz
+Processing clean file: /data/common/common_crawl/madlad/data/data-v1p5/ndc_ZW/clean_docs_v2-00002-of-00010.jsonl.gz
+Processing clean file: /data/common/common_crawl/madlad/data/data-v1p5/ndc_ZW/clean_docs_v2-00009-of-00010.jsonl.gz
+Processing clean file: /data/common/common_crawl/madlad/data/data-v1p5/ndc_ZW/clean_docs_v2-00005-of-00010.jsonl.gz
+Processing clean file: /data/common/common_crawl/madlad/data/data-v1p5/ndc_ZW/clean_docs_v2-00008-of-00010.jsonl.gz
+Processing clean file: /data/common/common_crawl/madlad/data/data-v1p5/ndc_ZW/clean_docs_v2-00003-of-00010.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/ndc_ZW/noisy_docs_v2-00000-of-00010.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/ndc_ZW/noisy_docs_v2-00006-of-00010.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/ndc_ZW/noisy_docs_v2-00001-of-00010.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/ndc_ZW/noisy_docs_v2-00007-of-00010.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/ndc_ZW/noisy_docs_v2-00009-of-00010.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/ndc_ZW/noisy_docs_v2-00002-of-00010.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/ndc_ZW/noisy_docs_v2-00004-of-00010.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/ndc_ZW/noisy_docs_v2-00003-of-00010.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/ndc_ZW/noisy_docs_v2-00008-of-00010.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/ndc_ZW/noisy_docs_v2-00005-of-00010.jsonl.gz
+Processing lang folder: /data/common/common_crawl/madlad/data/data-v1p5/te
+WARNING! One of the languages couldn't be processed: WARNING! Language without script or locale: te. Assuming no script or locale, but this is likely an error.
+Processing lang folder: /data/common/common_crawl/madlad/data/data-v1p5/sv
+WARNING! One of the languages couldn't be processed: WARNING! Language without script or locale: sv. Assuming no script or locale, but this is likely an error.
+Processing lang folder: /data/common/common_crawl/madlad/data/data-v1p5/kaa
+WARNING! One of the languages couldn't be processed: WARNING! Language without script or locale: kaa. Assuming no script or locale, but this is likely an error.
+Processing lang folder: /data/common/common_crawl/madlad/data/data-v1p5/zu
+WARNING! One of the languages couldn't be processed: WARNING! Language without script or locale: zu. Assuming no script or locale, but this is likely an error.
+Processing lang folder: /data/common/common_crawl/madlad/data/data-v1p5/fi
+WARNING! One of the languages couldn't be processed: WARNING! Language without script or locale: fi. Assuming no script or locale, but this is likely an error.
+Processing lang folder: /data/common/common_crawl/madlad/data/data-v1p5/cnh
+WARNING! One of the languages couldn't be processed: WARNING! Language without script or locale: cnh. Assuming no script or locale, but this is likely an error.
+Processing lang folder: /data/common/common_crawl/madlad/data/data-v1p5/arn
+WARNING! One of the languages couldn't be processed: WARNING! Language without script or locale: arn. Assuming no script or locale, but this is likely an error.
+Processing lang folder: /data/common/common_crawl/madlad/data/data-v1p5/dv
+WARNING! One of the languages couldn't be processed: WARNING! Language without script or locale: dv. Assuming no script or locale, but this is likely an error.
+Processing lang folder: /data/common/common_crawl/madlad/data/data-v1p5/el_Latn
+Processing language: ell, script: Some("Latn"), locale: None
+Processing clean file: /data/common/common_crawl/madlad/data/data-v1p5/el_Latn/clean_docs_v2-00007-of-00010.jsonl.gz
+Processing clean file: /data/common/common_crawl/madlad/data/data-v1p5/el_Latn/clean_docs_v2-00006-of-00010.jsonl.gz
+Processing clean file: /data/common/common_crawl/madlad/data/data-v1p5/el_Latn/clean_docs_v2-00000-of-00010.jsonl.gz
+Processing clean file: /data/common/common_crawl/madlad/data/data-v1p5/el_Latn/clean_docs_v2-00005-of-00010.jsonl.gz
+Processing clean file: /data/common/common_crawl/madlad/data/data-v1p5/el_Latn/clean_docs_v2-00008-of-00010.jsonl.gz
+Processing clean file: /data/common/common_crawl/madlad/data/data-v1p5/el_Latn/clean_docs_v2-00004-of-00010.jsonl.gz
+Processing clean file: /data/common/common_crawl/madlad/data/data-v1p5/el_Latn/clean_docs_v2-00009-of-00010.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/el_Latn/noisy_docs_v2-00186-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/el_Latn/noisy_docs_v2-00111-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/el_Latn/noisy_docs_v2-00063-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/el_Latn/noisy_docs_v2-00130-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/el_Latn/noisy_docs_v2-00049-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/el_Latn/noisy_docs_v2-00089-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/el_Latn/noisy_docs_v2-00172-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/el_Latn/noisy_docs_v2-00021-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/el_Latn/noisy_docs_v2-00097-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/el_Latn/noisy_docs_v2-00091-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/el_Latn/noisy_docs_v2-00039-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/el_Latn/noisy_docs_v2-00084-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/el_Latn/noisy_docs_v2-00006-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/el_Latn/noisy_docs_v2-00027-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/el_Latn/noisy_docs_v2-00070-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/el_Latn/noisy_docs_v2-00180-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/el_Latn/noisy_docs_v2-00048-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/el_Latn/noisy_docs_v2-00124-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/el_Latn/noisy_docs_v2-00062-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/el_Latn/noisy_docs_v2-00110-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/el_Latn/noisy_docs_v2-00043-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/el_Latn/noisy_docs_v2-00083-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/el_Latn/noisy_docs_v2-00001-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/el_Latn/noisy_docs_v2-00166-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/el_Latn/noisy_docs_v2-00159-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/el_Latn/noisy_docs_v2-00175-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/el_Latn/noisy_docs_v2-00026-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/el_Latn/noisy_docs_v2-00012-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/el_Latn/noisy_docs_v2-00181-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/el_Latn/noisy_docs_v2-00129-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/el_Latn/noisy_docs_v2-00045-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/el_Latn/noisy_docs_v2-00050-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/el_Latn/noisy_docs_v2-00103-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/el_Latn/noisy_docs_v2-00071-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/el_Latn/noisy_docs_v2-00064-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/el_Latn/noisy_docs_v2-00017-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/el_Latn/noisy_docs_v2-00080-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/el_Latn/noisy_docs_v2-00009-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/el_Latn/noisy_docs_v2-00023-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/el_Latn/noisy_docs_v2-00036-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/el_Latn/noisy_docs_v2-00191-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/el_Latn/noisy_docs_v2-00184-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/el_Latn/noisy_docs_v2-00055-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/el_Latn/noisy_docs_v2-00106-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/el_Latn/noisy_docs_v2-00040-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/el_Latn/noisy_docs_v2-00113-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/el_Latn/noisy_docs_v2-00053-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/el_Latn/noisy_docs_v2-00115-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/el_Latn/noisy_docs_v2-00079-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/el_Latn/noisy_docs_v2-00197-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/el_Latn/noisy_docs_v2-00189-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/el_Latn/noisy_docs_v2-00067-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/el_Latn/noisy_docs_v2-00072-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/el_Latn/noisy_docs_v2-00025-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/el_Latn/noisy_docs_v2-00030-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/el_Latn/noisy_docs_v2-00163-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/el_Latn/noisy_docs_v2-00149-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/el_Latn/noisy_docs_v2-00168-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/el_Latn/noisy_docs_v2-00086-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/el_Latn/noisy_docs_v2-00004-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/el_Latn/noisy_docs_v2-00157-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/el_Latn/noisy_docs_v2-00081-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/el_Latn/noisy_docs_v2-00003-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/el_Latn/noisy_docs_v2-00107-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/el_Latn/noisy_docs_v2-00054-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/el_Latn/noisy_docs_v2-00190-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/el_Latn/noisy_docs_v2-00119-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/el_Latn/noisy_docs_v2-00060-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/el_Latn/noisy_docs_v2-00183-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/el_Latn/noisy_docs_v2-00101-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/el_Latn/noisy_docs_v2-00010-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/el_Latn/noisy_docs_v2-00087-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/el_Latn/noisy_docs_v2-00169-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/el_Latn/noisy_docs_v2-00148-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/el_Latn/noisy_docs_v2-00099-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/el_Latn/noisy_docs_v2-00031-of-00200.jsonl.gz
+Processing lang folder: /data/common/common_crawl/madlad/data/data-v1p5/quf
+WARNING! One of the languages couldn't be processed: WARNING! Language without script or locale: quf. Assuming no script or locale, but this is likely an error.
+Processing lang folder: /data/common/common_crawl/madlad/data/data-v1p5/nan_Latn_TW
+Processing language: nan, script: Some("Latn"), locale: Some("TW")
+Processing clean file: /data/common/common_crawl/madlad/data/data-v1p5/nan_Latn_TW/clean_docs_v2-00001-of-00010.jsonl.gz
+Processing clean file: /data/common/common_crawl/madlad/data/data-v1p5/nan_Latn_TW/clean_docs_v2-00007-of-00010.jsonl.gz
+Processing clean file: /data/common/common_crawl/madlad/data/data-v1p5/nan_Latn_TW/clean_docs_v2-00000-of-00010.jsonl.gz
+Processing clean file: /data/common/common_crawl/madlad/data/data-v1p5/nan_Latn_TW/clean_docs_v2-00003-of-00010.jsonl.gz
+Processing clean file: /data/common/common_crawl/madlad/data/data-v1p5/nan_Latn_TW/clean_docs_v2-00008-of-00010.jsonl.gz
+Processing clean file: /data/common/common_crawl/madlad/data/data-v1p5/nan_Latn_TW/clean_docs_v2-00009-of-00010.jsonl.gz
+Processing clean file: /data/common/common_crawl/madlad/data/data-v1p5/nan_Latn_TW/clean_docs_v2-00002-of-00010.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/nan_Latn_TW/noisy_docs_v2-00006-of-00010.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/nan_Latn_TW/noisy_docs_v2-00000-of-00010.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/nan_Latn_TW/noisy_docs_v2-00005-of-00010.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/nan_Latn_TW/noisy_docs_v2-00008-of-00010.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/nan_Latn_TW/noisy_docs_v2-00003-of-00010.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/nan_Latn_TW/noisy_docs_v2-00002-of-00010.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/nan_Latn_TW/noisy_docs_v2-00009-of-00010.jsonl.gz
+Processing lang folder: /data/common/common_crawl/madlad/data/data-v1p5/co
+WARNING! One of the languages couldn't be processed: WARNING! Language without script or locale: co. Assuming no script or locale, but this is likely an error.
+Processing lang folder: /data/common/common_crawl/madlad/data/data-v1p5/ffm
+WARNING! One of the languages couldn't be processed: WARNING! Language without script or locale: ffm. Assuming no script or locale, but this is likely an error.
+Processing lang folder: /data/common/common_crawl/madlad/data/data-v1p5/ape
+WARNING! One of the languages couldn't be processed: WARNING! Language without script or locale: ape. Assuming no script or locale, but this is likely an error.
+Processing lang folder: /data/common/common_crawl/madlad/data/data-v1p5/ayl
+WARNING! One of the languages couldn't be processed: WARNING! Language without script or locale: ayl. Assuming no script or locale, but this is likely an error.
+Processing lang folder: /data/common/common_crawl/madlad/data/data-v1p5/ce
+WARNING! One of the languages couldn't be processed: WARNING! Language without script or locale: ce. Assuming no script or locale, but this is likely an error.
+Processing lang folder: /data/common/common_crawl/madlad/data/data-v1p5/mk
+WARNING! One of the languages couldn't be processed: WARNING! Language without script or locale: mk. Assuming no script or locale, but this is likely an error.
+Processing lang folder: /data/common/common_crawl/madlad/data/data-v1p5/fon
+WARNING! One of the languages couldn't be processed: WARNING! Language without script or locale: fon. Assuming no script or locale, but this is likely an error.
+Processing lang folder: /data/common/common_crawl/madlad/data/data-v1p5/tuc
+WARNING! One of the languages couldn't be processed: WARNING! Language without script or locale: tuc. Assuming no script or locale, but this is likely an error.
+Processing lang folder: /data/common/common_crawl/madlad/data/data-v1p5/hne
+WARNING! One of the languages couldn't be processed: WARNING! Language without script or locale: hne. Assuming no script or locale, but this is likely an error.
+Processing lang folder: /data/common/common_crawl/madlad/data/data-v1p5/ru
+WARNING! One of the languages couldn't be processed: WARNING! Language without script or locale: ru. Assuming no script or locale, but this is likely an error.
+Processing lang folder: /data/common/common_crawl/madlad/data/data-v1p5/ium
+WARNING! One of the languages couldn't be processed: WARNING! Language without script or locale: ium. Assuming no script or locale, but this is likely an error.
+Processing lang folder: /data/common/common_crawl/madlad/data/data-v1p5/ur
+WARNING! One of the languages couldn't be processed: WARNING! Language without script or locale: ur. Assuming no script or locale, but this is likely an error.
+Processing lang folder: /data/common/common_crawl/madlad/data/data-v1p5/gsw
+WARNING! One of the languages couldn't be processed: WARNING! Language without script or locale: gsw. Assuming no script or locale, but this is likely an error.
+Processing lang folder: /data/common/common_crawl/madlad/data/data-v1p5/ceb
+WARNING! One of the languages couldn't be processed: WARNING! Language without script or locale: ceb. Assuming no script or locale, but this is likely an error.
+Processing lang folder: /data/common/common_crawl/madlad/data/data-v1p5/mrj
+WARNING! One of the languages couldn't be processed: WARNING! Language without script or locale: mrj. Assuming no script or locale, but this is likely an error.
+Processing lang folder: /data/common/common_crawl/madlad/data/data-v1p5/te_Latn
+Processing language: tel, script: Some("Latn"), locale: None
+Processing clean file: /data/common/common_crawl/madlad/data/data-v1p5/te_Latn/clean_docs_v2-00000-of-00010.jsonl.gz
+Processing clean file: /data/common/common_crawl/madlad/data/data-v1p5/te_Latn/clean_docs_v2-00006-of-00010.jsonl.gz
+Processing clean file: /data/common/common_crawl/madlad/data/data-v1p5/te_Latn/clean_docs_v2-00001-of-00010.jsonl.gz
+Processing clean file: /data/common/common_crawl/madlad/data/data-v1p5/te_Latn/clean_docs_v2-00007-of-00010.jsonl.gz
+Processing clean file: /data/common/common_crawl/madlad/data/data-v1p5/te_Latn/clean_docs_v2-00009-of-00010.jsonl.gz
+Processing clean file: /data/common/common_crawl/madlad/data/data-v1p5/te_Latn/clean_docs_v2-00004-of-00010.jsonl.gz
+Processing clean file: /data/common/common_crawl/madlad/data/data-v1p5/te_Latn/clean_docs_v2-00003-of-00010.jsonl.gz
+Processing clean file: /data/common/common_crawl/madlad/data/data-v1p5/te_Latn/clean_docs_v2-00008-of-00010.jsonl.gz
+Processing clean file: /data/common/common_crawl/madlad/data/data-v1p5/te_Latn/clean_docs_v2-00005-of-00010.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/te_Latn/noisy_docs_v2-00006-of-00010.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/te_Latn/noisy_docs_v2-00000-of-00010.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/te_Latn/noisy_docs_v2-00007-of-00010.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/te_Latn/noisy_docs_v2-00001-of-00010.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/te_Latn/noisy_docs_v2-00004-of-00010.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/te_Latn/noisy_docs_v2-00002-of-00010.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/te_Latn/noisy_docs_v2-00009-of-00010.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/te_Latn/noisy_docs_v2-00005-of-00010.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/te_Latn/noisy_docs_v2-00003-of-00010.jsonl.gz
+Processing lang folder: /data/common/common_crawl/madlad/data/data-v1p5/qup
+WARNING! One of the languages couldn't be processed: WARNING! Language without script or locale: qup. Assuming no script or locale, but this is likely an error.
+Processing lang folder: /data/common/common_crawl/madlad/data/data-v1p5/dov
+WARNING! One of the languages couldn't be processed: WARNING! Language without script or locale: dov. Assuming no script or locale, but this is likely an error.
+Processing lang folder: /data/common/common_crawl/madlad/data/data-v1p5/srm
+WARNING! One of the languages couldn't be processed: WARNING! Language without script or locale: srm. Assuming no script or locale, but this is likely an error.
+Processing lang folder: /data/common/common_crawl/madlad/data/data-v1p5/clu
+WARNING! One of the languages couldn't be processed: WARNING! Language without script or locale: clu. Assuming no script or locale, but this is likely an error.
+Processing lang folder: /data/common/common_crawl/madlad/data/data-v1p5/xh
+WARNING! One of the languages couldn't be processed: WARNING! Language without script or locale: xh. Assuming no script or locale, but this is likely an error.
+Processing lang folder: /data/common/common_crawl/madlad/data/data-v1p5/cs
+WARNING! One of the languages couldn't be processed: WARNING! Language without script or locale: cs. Assuming no script or locale, but this is likely an error.
+Processing lang folder: /data/common/common_crawl/madlad/data/data-v1p5/cy
+WARNING! One of the languages couldn't be processed: WARNING! Language without script or locale: cy. Assuming no script or locale, but this is likely an error.
+Processing lang folder: /data/common/common_crawl/madlad/data/data-v1p5/uz
+WARNING! One of the languages couldn't be processed: WARNING! Language without script or locale: uz. Assuming no script or locale, but this is likely an error.
+Processing lang folder: /data/common/common_crawl/madlad/data/data-v1p5/gv
+WARNING! One of the languages couldn't be processed: WARNING! Language without script or locale: gv. Assuming no script or locale, but this is likely an error.
+Processing lang folder: /data/common/common_crawl/madlad/data/data-v1p5/dyu
+WARNING! One of the languages couldn't be processed: WARNING! Language without script or locale: dyu. Assuming no script or locale, but this is likely an error.
+Processing lang folder: /data/common/common_crawl/madlad/data/data-v1p5/bfy
+WARNING! One of the languages couldn't be processed: WARNING! Language without script or locale: bfy. Assuming no script or locale, but this is likely an error.
+Processing lang folder: /data/common/common_crawl/madlad/data/data-v1p5/km
+WARNING! One of the languages couldn't be processed: WARNING! Language without script or locale: km. Assuming no script or locale, but this is likely an error.
+Processing lang folder: /data/common/common_crawl/madlad/data/data-v1p5/msi
+WARNING! One of the languages couldn't be processed: WARNING! Language without script or locale: msi. Assuming no script or locale, but this is likely an error.
+Processing lang folder: /data/common/common_crawl/madlad/data/data-v1p5/lhu
+WARNING! One of the languages couldn't be processed: WARNING! Language without script or locale: lhu. Assuming no script or locale, but this is likely an error.
+Processing lang folder: /data/common/common_crawl/madlad/data/data-v1p5/bn
+WARNING! One of the languages couldn't be processed: WARNING! Language without script or locale: bn. Assuming no script or locale, but this is likely an error.
+Processing lang folder: /data/common/common_crawl/madlad/data/data-v1p5/mfb
+WARNING! One of the languages couldn't be processed: WARNING! Language without script or locale: mfb. Assuming no script or locale, but this is likely an error.
+Processing lang folder: /data/common/common_crawl/madlad/data/data-v1p5/nzi
+WARNING! One of the languages couldn't be processed: WARNING! Language without script or locale: nzi. Assuming no script or locale, but this is likely an error.
+Processing lang folder: /data/common/common_crawl/madlad/data/data-v1p5/zh_Latn
+Processing language: zho, script: Some("Latn"), locale: None
+Processing clean file: /data/common/common_crawl/madlad/data/data-v1p5/zh_Latn/clean_docs_v2-00007-of-00010.jsonl.gz
+Processing clean file: /data/common/common_crawl/madlad/data/data-v1p5/zh_Latn/clean_docs_v2-00009-of-00010.jsonl.gz
+Processing clean file: /data/common/common_crawl/madlad/data/data-v1p5/zh_Latn/clean_docs_v2-00002-of-00010.jsonl.gz
+Processing clean file: /data/common/common_crawl/madlad/data/data-v1p5/zh_Latn/clean_docs_v2-00008-of-00010.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/zh_Latn/noisy_docs_v2-00152-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/zh_Latn/noisy_docs_v2-00001-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/zh_Latn/noisy_docs_v2-00035-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/zh_Latn/noisy_docs_v2-00062-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/zh_Latn/noisy_docs_v2-00131-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/zh_Latn/noisy_docs_v2-00077-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/zh_Latn/noisy_docs_v2-00199-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/zh_Latn/noisy_docs_v2-00048-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/zh_Latn/noisy_docs_v2-00187-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/zh_Latn/noisy_docs_v2-00069-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/zh_Latn/noisy_docs_v2-00056-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/zh_Latn/noisy_docs_v2-00103-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/zh_Latn/noisy_docs_v2-00116-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/zh_Latn/noisy_docs_v2-00108-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/zh_Latn/noisy_docs_v2-00064-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/zh_Latn/noisy_docs_v2-00071-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/zh_Latn/noisy_docs_v2-00026-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/zh_Latn/noisy_docs_v2-00175-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/zh_Latn/noisy_docs_v2-00033-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/zh_Latn/noisy_docs_v2-00019-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/zh_Latn/noisy_docs_v2-00038-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/zh_Latn/noisy_docs_v2-00012-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/zh_Latn/noisy_docs_v2-00007-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/zh_Latn/noisy_docs_v2-00154-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/zh_Latn/noisy_docs_v2-00021-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/zh_Latn/noisy_docs_v2-00172-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/zh_Latn/noisy_docs_v2-00089-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/zh_Latn/noisy_docs_v2-00034-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/zh_Latn/noisy_docs_v2-00167-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/zh_Latn/noisy_docs_v2-00158-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/zh_Latn/noisy_docs_v2-00179-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/zh_Latn/noisy_docs_v2-00097-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/zh_Latn/noisy_docs_v2-00000-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/zh_Latn/noisy_docs_v2-00153-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/zh_Latn/noisy_docs_v2-00104-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/zh_Latn/noisy_docs_v2-00057-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/zh_Latn/noisy_docs_v2-00111-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/zh_Latn/noisy_docs_v2-00068-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/zh_Latn/noisy_docs_v2-00063-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/zh_Latn/noisy_docs_v2-00076-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/zh_Latn/noisy_docs_v2-00065-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/zh_Latn/noisy_docs_v2-00070-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/zh_Latn/noisy_docs_v2-00123-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/zh_Latn/noisy_docs_v2-00180-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/zh_Latn/noisy_docs_v2-00051-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/zh_Latn/noisy_docs_v2-00044-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/zh_Latn/noisy_docs_v2-00117-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/zh_Latn/noisy_docs_v2-00140-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/zh_Latn/noisy_docs_v2-00155-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/zh_Latn/noisy_docs_v2-00006-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/zh_Latn/noisy_docs_v2-00084-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/zh_Latn/noisy_docs_v2-00039-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/zh_Latn/noisy_docs_v2-00091-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/zh_Latn/noisy_docs_v2-00018-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/zh_Latn/noisy_docs_v2-00174-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/zh_Latn/noisy_docs_v2-00032-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/zh_Latn/noisy_docs_v2-00185-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/zh_Latn/noisy_docs_v2-00138-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/zh_Latn/noisy_docs_v2-00041-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/zh_Latn/noisy_docs_v2-00112-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/zh_Latn/noisy_docs_v2-00075-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/zh_Latn/noisy_docs_v2-00126-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/zh_Latn/noisy_docs_v2-00133-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/zh_Latn/noisy_docs_v2-00119-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/zh_Latn/noisy_docs_v2-00022-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/zh_Latn/noisy_docs_v2-00150-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/zh_Latn/noisy_docs_v2-00029-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/zh_Latn/noisy_docs_v2-00094-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/zh_Latn/noisy_docs_v2-00081-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/zh_Latn/noisy_docs_v2-00169-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/zh_Latn/noisy_docs_v2-00087-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/zh_Latn/noisy_docs_v2-00005-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/zh_Latn/noisy_docs_v2-00031-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/zh_Latn/noisy_docs_v2-00162-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/zh_Latn/noisy_docs_v2-00099-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/zh_Latn/noisy_docs_v2-00148-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/zh_Latn/noisy_docs_v2-00120-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/zh_Latn/noisy_docs_v2-00073-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/zh_Latn/noisy_docs_v2-00188-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/zh_Latn/noisy_docs_v2-00114-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/zh_Latn/noisy_docs_v2-00047-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/zh_Latn/noisy_docs_v2-00052-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/zh_Latn/noisy_docs_v2-00183-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/zh_Latn/noisy_docs_v2-00078-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/zh_Latn/noisy_docs_v2-00118-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/zh_Latn/noisy_docs_v2-00127-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/zh_Latn/noisy_docs_v2-00113-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/zh_Latn/noisy_docs_v2-00040-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/zh_Latn/noisy_docs_v2-00106-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/zh_Latn/noisy_docs_v2-00055-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/zh_Latn/noisy_docs_v2-00184-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/zh_Latn/noisy_docs_v2-00139-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/zh_Latn/noisy_docs_v2-00191-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/zh_Latn/noisy_docs_v2-00095-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/zh_Latn/noisy_docs_v2-00017-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/zh_Latn/noisy_docs_v2-00144-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/zh_Latn/noisy_docs_v2-00036-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/zh_Latn/noisy_docs_v2-00170-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/zh_Latn/noisy_docs_v2-00009-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/zh_Latn/noisy_docs_v2-00149-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/zh_Latn/noisy_docs_v2-00163-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/zh_Latn/noisy_docs_v2-00176-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/zh_Latn/noisy_docs_v2-00157-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/zh_Latn/noisy_docs_v2-00004-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/zh_Latn/noisy_docs_v2-00093-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/zh_Latn/noisy_docs_v2-00079-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/zh_Latn/noisy_docs_v2-00072-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/zh_Latn/noisy_docs_v2-00121-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/zh_Latn/noisy_docs_v2-00067-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/zh_Latn/noisy_docs_v2-00189-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/zh_Latn/noisy_docs_v2-00058-of-00200.jsonl.gz
+Processing lang folder: /data/common/common_crawl/madlad/data/data-v1p5/pau
+WARNING! One of the languages couldn't be processed: WARNING! Language without script or locale: pau. Assuming no script or locale, but this is likely an error.
+Processing lang folder: /data/common/common_crawl/madlad/data/data-v1p5/lt
+WARNING! One of the languages couldn't be processed: WARNING! Language without script or locale: lt. Assuming no script or locale, but this is likely an error.
+Processing lang folder: /data/common/common_crawl/madlad/data/data-v1p5/sah
+WARNING! One of the languages couldn't be processed: WARNING! Language without script or locale: sah. Assuming no script or locale, but this is likely an error.
+Processing lang folder: /data/common/common_crawl/madlad/data/data-v1p5/ky
+WARNING! One of the languages couldn't be processed: WARNING! Language without script or locale: ky. Assuming no script or locale, but this is likely an error.
+Processing lang folder: /data/common/common_crawl/madlad/data/data-v1p5/ta_Latn
+Processing language: tam, script: Some("Latn"), locale: None
+Processing clean file: /data/common/common_crawl/madlad/data/data-v1p5/ta_Latn/clean_docs_v2-00004-of-00010.jsonl.gz
+Processing clean file: /data/common/common_crawl/madlad/data/data-v1p5/ta_Latn/clean_docs_v2-00009-of-00010.jsonl.gz
+Processing clean file: /data/common/common_crawl/madlad/data/data-v1p5/ta_Latn/clean_docs_v2-00005-of-00010.jsonl.gz
+Processing clean file: /data/common/common_crawl/madlad/data/data-v1p5/ta_Latn/clean_docs_v2-00008-of-00010.jsonl.gz
+Processing clean file: /data/common/common_crawl/madlad/data/data-v1p5/ta_Latn/clean_docs_v2-00003-of-00010.jsonl.gz
+Processing clean file: /data/common/common_crawl/madlad/data/data-v1p5/ta_Latn/clean_docs_v2-00006-of-00010.jsonl.gz
+Processing clean file: /data/common/common_crawl/madlad/data/data-v1p5/ta_Latn/clean_docs_v2-00000-of-00010.jsonl.gz
+Processing clean file: /data/common/common_crawl/madlad/data/data-v1p5/ta_Latn/clean_docs_v2-00001-of-00010.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/ta_Latn/noisy_docs_v2-00009-of-00010.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/ta_Latn/noisy_docs_v2-00002-of-00010.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/ta_Latn/noisy_docs_v2-00004-of-00010.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/ta_Latn/noisy_docs_v2-00003-of-00010.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/ta_Latn/noisy_docs_v2-00005-of-00010.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/ta_Latn/noisy_docs_v2-00006-of-00010.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/ta_Latn/noisy_docs_v2-00001-of-00010.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/ta_Latn/noisy_docs_v2-00007-of-00010.jsonl.gz
+Processing lang folder: /data/common/common_crawl/madlad/data/data-v1p5/apd_SD
+Processing language: apd, script: None, locale: Some("SD")
+Processing clean file: /data/common/common_crawl/madlad/data/data-v1p5/apd_SD/clean_docs_v2-00000-of-00010.jsonl.gz
+Processing clean file: /data/common/common_crawl/madlad/data/data-v1p5/apd_SD/clean_docs_v2-00006-of-00010.jsonl.gz
+Processing clean file: /data/common/common_crawl/madlad/data/data-v1p5/apd_SD/clean_docs_v2-00003-of-00010.jsonl.gz
+Processing clean file: /data/common/common_crawl/madlad/data/data-v1p5/apd_SD/clean_docs_v2-00008-of-00010.jsonl.gz
+Processing clean file: /data/common/common_crawl/madlad/data/data-v1p5/apd_SD/clean_docs_v2-00005-of-00010.jsonl.gz
+Processing clean file: /data/common/common_crawl/madlad/data/data-v1p5/apd_SD/clean_docs_v2-00004-of-00010.jsonl.gz
+Processing lang folder: /data/common/common_crawl/madlad/data/data-v1p5/nyu
+WARNING! One of the languages couldn't be processed: WARNING! Language without script or locale: nyu. Assuming no script or locale, but this is likely an error.
+Processing lang folder: /data/common/common_crawl/madlad/data/data-v1p5/ho
+WARNING! One of the languages couldn't be processed: WARNING! Language without script or locale: ho. Assuming no script or locale, but this is likely an error.
+Processing lang folder: /data/common/common_crawl/madlad/data/data-v1p5/af
+WARNING! One of the languages couldn't be processed: WARNING! Language without script or locale: af. Assuming no script or locale, but this is likely an error.
+Processing lang folder: /data/common/common_crawl/madlad/data/data-v1p5/fa
+WARNING! One of the languages couldn't be processed: WARNING! Language without script or locale: fa. Assuming no script or locale, but this is likely an error.
+Processing lang folder: /data/common/common_crawl/madlad/data/data-v1p5/ts
+WARNING! One of the languages couldn't be processed: WARNING! Language without script or locale: ts. Assuming no script or locale, but this is likely an error.
+Processing lang folder: /data/common/common_crawl/madlad/data/data-v1p5/emp
+WARNING! One of the languages couldn't be processed: WARNING! Language without script or locale: emp. Assuming no script or locale, but this is likely an error.
+Processing lang folder: /data/common/common_crawl/madlad/data/data-v1p5/ymm
+WARNING! One of the languages couldn't be processed: WARNING! Language without script or locale: ymm. Assuming no script or locale, but this is likely an error.
+Processing lang folder: /data/common/common_crawl/madlad/data/data-v1p5/kos
+WARNING! One of the languages couldn't be processed: WARNING! Language without script or locale: kos. Assuming no script or locale, but this is likely an error.
+Processing lang folder: /data/common/common_crawl/madlad/data/data-v1p5/bgp
+WARNING! One of the languages couldn't be processed: WARNING! Language without script or locale: bgp. Assuming no script or locale, but this is likely an error.
+Processing lang folder: /data/common/common_crawl/madlad/data/data-v1p5/ar
+WARNING! One of the languages couldn't be processed: WARNING! Language without script or locale: ar. Assuming no script or locale, but this is likely an error.
+Processing lang folder: /data/common/common_crawl/madlad/data/data-v1p5/tg
+WARNING! One of the languages couldn't be processed: WARNING! Language without script or locale: tg. Assuming no script or locale, but this is likely an error.
+Processing lang folder: /data/common/common_crawl/madlad/data/data-v1p5/fr
+WARNING! One of the languages couldn't be processed: WARNING! Language without script or locale: fr. Assuming no script or locale, but this is likely an error.
+Processing lang folder: /data/common/common_crawl/madlad/data/data-v1p5/rki
+WARNING! One of the languages couldn't be processed: WARNING! Language without script or locale: rki. Assuming no script or locale, but this is likely an error.
+Processing lang folder: /data/common/common_crawl/madlad/data/data-v1p5/mey
+WARNING! One of the languages couldn't be processed: WARNING! Language without script or locale: mey. Assuming no script or locale, but this is likely an error.
+Processing lang folder: /data/common/common_crawl/madlad/data/data-v1p5/xmm
+WARNING! One of the languages couldn't be processed: WARNING! Language without script or locale: xmm. Assuming no script or locale, but this is likely an error.
+Processing lang folder: /data/common/common_crawl/madlad/data/data-v1p5/bgc
+WARNING! One of the languages couldn't be processed: WARNING! Language without script or locale: bgc. Assuming no script or locale, but this is likely an error.
+Processing lang folder: /data/common/common_crawl/madlad/data/data-v1p5/ff
+WARNING! One of the languages couldn't be processed: WARNING! Language without script or locale: ff. Assuming no script or locale, but this is likely an error.
+Processing lang folder: /data/common/common_crawl/madlad/data/data-v1p5/aa
+WARNING! One of the languages couldn't be processed: WARNING! Language without script or locale: aa. Assuming no script or locale, but this is likely an error.
+Processing lang folder: /data/common/common_crawl/madlad/data/data-v1p5/tt
+WARNING! One of the languages couldn't be processed: WARNING! Language without script or locale: tt. Assuming no script or locale, but this is likely an error.
+Processing lang folder: /data/common/common_crawl/madlad/data/data-v1p5/jac
+WARNING! One of the languages couldn't be processed: WARNING! Language without script or locale: jac. Assuming no script or locale, but this is likely an error.
+Processing lang folder: /data/common/common_crawl/madlad/data/data-v1p5/toj
+WARNING! One of the languages couldn't be processed: WARNING! Language without script or locale: toj. Assuming no script or locale, but this is likely an error.
+Processing lang folder: /data/common/common_crawl/madlad/data/data-v1p5/adh
+WARNING! One of the languages couldn't be processed: WARNING! Language without script or locale: adh. Assuming no script or locale, but this is likely an error.
+Processing lang folder: /data/common/common_crawl/madlad/data/data-v1p5/mfe
+WARNING! One of the languages couldn't be processed: WARNING! Language without script or locale: mfe. Assuming no script or locale, but this is likely an error.
+Processing lang folder: /data/common/common_crawl/madlad/data/data-v1p5/noe
+WARNING! One of the languages couldn't be processed: WARNING! Language without script or locale: noe. Assuming no script or locale, but this is likely an error.
+Processing lang folder: /data/common/common_crawl/madlad/data/data-v1p5/tlh
+WARNING! One of the languages couldn't be processed: WARNING! Language without script or locale: tlh. Assuming no script or locale, but this is likely an error.
+Processing lang folder: /data/common/common_crawl/madlad/data/data-v1p5/bi
+WARNING! One of the languages couldn't be processed: WARNING! Language without script or locale: bi. Assuming no script or locale, but this is likely an error.
+Processing lang folder: /data/common/common_crawl/madlad/data/data-v1p5/lg
+WARNING! One of the languages couldn't be processed: WARNING! Language without script or locale: lg. Assuming no script or locale, but this is likely an error.
+Processing lang folder: /data/common/common_crawl/madlad/data/data-v1p5/nr
+WARNING! One of the languages couldn't be processed: WARNING! Language without script or locale: nr. Assuming no script or locale, but this is likely an error.
+Processing lang folder: /data/common/common_crawl/madlad/data/data-v1p5/rn
+WARNING! One of the languages couldn't be processed: WARNING! Language without script or locale: rn. Assuming no script or locale, but this is likely an error.
+Processing lang folder: /data/common/common_crawl/madlad/data/data-v1p5/ctu
+WARNING! One of the languages couldn't be processed: WARNING! Language without script or locale: ctu. Assuming no script or locale, but this is likely an error.
+Processing lang folder: /data/common/common_crawl/madlad/data/data-v1p5/nl
+WARNING! One of the languages couldn't be processed: WARNING! Language without script or locale: nl. Assuming no script or locale, but this is likely an error.
+Processing lang folder: /data/common/common_crawl/madlad/data/data-v1p5/pcm
+WARNING! One of the languages couldn't be processed: WARNING! Language without script or locale: pcm. Assuming no script or locale, but this is likely an error.
+Processing lang folder: /data/common/common_crawl/madlad/data/data-v1p5/cfm
+WARNING! One of the languages couldn't be processed: WARNING! Language without script or locale: cfm. Assuming no script or locale, but this is likely an error.
+Processing lang folder: /data/common/common_crawl/madlad/data/data-v1p5/lus
+WARNING! One of the languages couldn't be processed: WARNING! Language without script or locale: lus. Assuming no script or locale, but this is likely an error.
+Processing lang folder: /data/common/common_crawl/madlad/data/data-v1p5/yaq
+WARNING! One of the languages couldn't be processed: WARNING! Language without script or locale: yaq. Assuming no script or locale, but this is likely an error.
+Processing lang folder: /data/common/common_crawl/madlad/data/data-v1p5/mn
+WARNING! One of the languages couldn't be processed: WARNING! Language without script or locale: mn. Assuming no script or locale, but this is likely an error.
+Processing lang folder: /data/common/common_crawl/madlad/data/data-v1p5/mrw
+WARNING! One of the languages couldn't be processed: WARNING! Language without script or locale: mrw. Assuming no script or locale, but this is likely an error.
+Processing lang folder: /data/common/common_crawl/madlad/data/data-v1p5/mt
+WARNING! One of the languages couldn't be processed: WARNING! Language without script or locale: mt. Assuming no script or locale, but this is likely an error.
+Processing lang folder: /data/common/common_crawl/madlad/data/data-v1p5/ve
+WARNING! One of the languages couldn't be processed: WARNING! Language without script or locale: ve. Assuming no script or locale, but this is likely an error.
+Processing lang folder: /data/common/common_crawl/madlad/data/data-v1p5/tdx
+WARNING! One of the languages couldn't be processed: WARNING! Language without script or locale: tdx. Assuming no script or locale, but this is likely an error.
+Processing lang folder: /data/common/common_crawl/madlad/data/data-v1p5/kjh
+WARNING! One of the languages couldn't be processed: WARNING! Language without script or locale: kjh. Assuming no script or locale, but this is likely an error.
+Processing lang folder: /data/common/common_crawl/madlad/data/data-v1p5/xal
+WARNING! One of the languages couldn't be processed: WARNING! Language without script or locale: xal. Assuming no script or locale, but this is likely an error.
+Processing lang folder: /data/common/common_crawl/madlad/data/data-v1p5/quy
+WARNING! One of the languages couldn't be processed: WARNING! Language without script or locale: quy. Assuming no script or locale, but this is likely an error.
+Processing lang folder: /data/common/common_crawl/madlad/data/data-v1p5/kjb
+WARNING! One of the languages couldn't be processed: WARNING! Language without script or locale: kjb. Assuming no script or locale, but this is likely an error.
+Processing lang folder: /data/common/common_crawl/madlad/data/data-v1p5/rmc
+WARNING! One of the languages couldn't be processed: WARNING! Language without script or locale: rmc. Assuming no script or locale, but this is likely an error.
+Processing lang folder: /data/common/common_crawl/madlad/data/data-v1p5/dwr
+WARNING! One of the languages couldn't be processed: WARNING! Language without script or locale: dwr. Assuming no script or locale, but this is likely an error.
+Processing lang folder: /data/common/common_crawl/madlad/data/data-v1p5/pmy
+WARNING! One of the languages couldn't be processed: WARNING! Language without script or locale: pmy. Assuming no script or locale, but this is likely an error.
+Processing lang folder: /data/common/common_crawl/madlad/data/data-v1p5/nv
+WARNING! One of the languages couldn't be processed: WARNING! Language without script or locale: nv. Assuming no script or locale, but this is likely an error.
+Processing lang folder: /data/common/common_crawl/madlad/data/data-v1p5/ug
+WARNING! One of the languages couldn't be processed: WARNING! Language without script or locale: ug. Assuming no script or locale, but this is likely an error.
+Processing lang folder: /data/common/common_crawl/madlad/data/data-v1p5/gu
+WARNING! One of the languages couldn't be processed: WARNING! Language without script or locale: gu. Assuming no script or locale, but this is likely an error.
+Processing lang folder: /data/common/common_crawl/madlad/data/data-v1p5/ber_Latn
+WARNING! One of the languages couldn't be processed: 'ber' is not a valid ISO 639-1 or 639-3 code.
+Processing lang folder: /data/common/common_crawl/madlad/data/data-v1p5/ga
+WARNING! One of the languages couldn't be processed: WARNING! Language without script or locale: ga. Assuming no script or locale, but this is likely an error.
+Processing lang folder: /data/common/common_crawl/madlad/data/data-v1p5/zne
+WARNING! One of the languages couldn't be processed: WARNING! Language without script or locale: zne. Assuming no script or locale, but this is likely an error.
+Processing lang folder: /data/common/common_crawl/madlad/data/data-v1p5/bs
+WARNING! One of the languages couldn't be processed: WARNING! Language without script or locale: bs. Assuming no script or locale, but this is likely an error.
+Processing lang folder: /data/common/common_crawl/madlad/data/data-v1p5/et
+WARNING! One of the languages couldn't be processed: WARNING! Language without script or locale: et. Assuming no script or locale, but this is likely an error.
+Processing lang folder: /data/common/common_crawl/madlad/data/data-v1p5/pa
+WARNING! One of the languages couldn't be processed: WARNING! Language without script or locale: pa. Assuming no script or locale, but this is likely an error.
+Processing lang folder: /data/common/common_crawl/madlad/data/data-v1p5/grc
+WARNING! One of the languages couldn't be processed: WARNING! Language without script or locale: grc. Assuming no script or locale, but this is likely an error.
+Processing lang folder: /data/common/common_crawl/madlad/data/data-v1p5/kwi
+WARNING! One of the languages couldn't be processed: WARNING! Language without script or locale: kwi. Assuming no script or locale, but this is likely an error.
+Processing lang folder: /data/common/common_crawl/madlad/data/data-v1p5/enq
+WARNING! One of the languages couldn't be processed: WARNING! Language without script or locale: enq. Assuming no script or locale, but this is likely an error.
+Processing lang folder: /data/common/common_crawl/madlad/data/data-v1p5/bm
+WARNING! One of the languages couldn't be processed: WARNING! Language without script or locale: bm. Assuming no script or locale, but this is likely an error.
+Processing lang folder: /data/common/common_crawl/madlad/data/data-v1p5/gil
+WARNING! One of the languages couldn't be processed: WARNING! Language without script or locale: gil. Assuming no script or locale, but this is likely an error.
+Processing lang folder: /data/common/common_crawl/madlad/data/data-v1p5/teo
+WARNING! One of the languages couldn't be processed: WARNING! Language without script or locale: teo. Assuming no script or locale, but this is likely an error.
+Processing lang folder: /data/common/common_crawl/madlad/data/data-v1p5/kn
+WARNING! One of the languages couldn't be processed: WARNING! Language without script or locale: kn. Assuming no script or locale, but this is likely an error.
+Processing lang folder: /data/common/common_crawl/madlad/data/data-v1p5/bg
+WARNING! One of the languages couldn't be processed: WARNING! Language without script or locale: bg. Assuming no script or locale, but this is likely an error.
+Processing lang folder: /data/common/common_crawl/madlad/data/data-v1p5/syr
+WARNING! One of the languages couldn't be processed: WARNING! Language without script or locale: syr. Assuming no script or locale, but this is likely an error.
+Processing lang folder: /data/common/common_crawl/madlad/data/data-v1p5/tzo
+WARNING! One of the languages couldn't be processed: WARNING! Language without script or locale: tzo. Assuming no script or locale, but this is likely an error.
+Processing lang folder: /data/common/common_crawl/madlad/data/data-v1p5/si
+WARNING! One of the languages couldn't be processed: WARNING! Language without script or locale: si. Assuming no script or locale, but this is likely an error.
+Processing lang folder: /data/common/common_crawl/madlad/data/data-v1p5/tn
+WARNING! One of the languages couldn't be processed: WARNING! Language without script or locale: tn. Assuming no script or locale, but this is likely an error.
+Processing lang folder: /data/common/common_crawl/madlad/data/data-v1p5/hr
+WARNING! One of the languages couldn't be processed: WARNING! Language without script or locale: hr. Assuming no script or locale, but this is likely an error.
+Processing lang folder: /data/common/common_crawl/madlad/data/data-v1p5/cni
+WARNING! One of the languages couldn't be processed: WARNING! Language without script or locale: cni. Assuming no script or locale, but this is likely an error.
+Processing lang folder: /data/common/common_crawl/madlad/data/data-v1p5/brx
+WARNING! One of the languages couldn't be processed: WARNING! Language without script or locale: brx. Assuming no script or locale, but this is likely an error.
+Processing lang folder: /data/common/common_crawl/madlad/data/data-v1p5/rwo
+WARNING! One of the languages couldn't be processed: WARNING! Language without script or locale: rwo. Assuming no script or locale, but this is likely an error.
+Processing lang folder: /data/common/common_crawl/madlad/data/data-v1p5/syl
+WARNING! One of the languages couldn't be processed: WARNING! Language without script or locale: syl. Assuming no script or locale, but this is likely an error.
+Processing lang folder: /data/common/common_crawl/madlad/data/data-v1p5/jam
+WARNING! One of the languages couldn't be processed: WARNING! Language without script or locale: jam. Assuming no script or locale, but this is likely an error.
+Processing lang folder: /data/common/common_crawl/madlad/data/data-v1p5/sw
+WARNING! One of the languages couldn't be processed: WARNING! Language without script or locale: sw. Assuming no script or locale, but this is likely an error.
+Processing lang folder: /data/common/common_crawl/madlad/data/data-v1p5/haw
+WARNING! One of the languages couldn't be processed: WARNING! Language without script or locale: haw. Assuming no script or locale, but this is likely an error.
+Processing lang folder: /data/common/common_crawl/madlad/data/data-v1p5/ktu
+WARNING! One of the languages couldn't be processed: WARNING! Language without script or locale: ktu. Assuming no script or locale, but this is likely an error.
+Processing lang folder: /data/common/common_crawl/madlad/data/data-v1p5/rkt
+WARNING! One of the languages couldn't be processed: WARNING! Language without script or locale: rkt. Assuming no script or locale, but this is likely an error.
+Processing lang folder: /data/common/common_crawl/madlad/data/data-v1p5/fo
+WARNING! One of the languages couldn't be processed: WARNING! Language without script or locale: fo. Assuming no script or locale, but this is likely an error.
+Processing lang folder: /data/common/common_crawl/madlad/data/data-v1p5/ha
+WARNING! One of the languages couldn't be processed: WARNING! Language without script or locale: ha. Assuming no script or locale, but this is likely an error.
+Processing lang folder: /data/common/common_crawl/madlad/data/data-v1p5/ppk
+WARNING! One of the languages couldn't be processed: WARNING! Language without script or locale: ppk. Assuming no script or locale, but this is likely an error.
+Processing lang folder: /data/common/common_crawl/madlad/data/data-v1p5/sd
+WARNING! One of the languages couldn't be processed: WARNING! Language without script or locale: sd. Assuming no script or locale, but this is likely an error.
+Processing lang folder: /data/common/common_crawl/madlad/data/data-v1p5/skg
+WARNING! One of the languages couldn't be processed: WARNING! Language without script or locale: skg. Assuming no script or locale, but this is likely an error.
+Processing lang folder: /data/common/common_crawl/madlad/data/data-v1p5/tzh
+WARNING! One of the languages couldn't be processed: WARNING! Language without script or locale: tzh. Assuming no script or locale, but this is likely an error.
+Processing lang folder: /data/common/common_crawl/madlad/data/data-v1p5/nyo
+WARNING! One of the languages couldn't be processed: WARNING! Language without script or locale: nyo. Assuming no script or locale, but this is likely an error.
+Processing lang folder: /data/common/common_crawl/madlad/data/data-v1p5/sn
+WARNING! One of the languages couldn't be processed: WARNING! Language without script or locale: sn. Assuming no script or locale, but this is likely an error.
+Processing lang folder: /data/common/common_crawl/madlad/data/data-v1p5/or
+WARNING! One of the languages couldn't be processed: WARNING! Language without script or locale: or. Assuming no script or locale, but this is likely an error.
+Processing lang folder: /data/common/common_crawl/madlad/data/data-v1p5/ltg
+WARNING! One of the languages couldn't be processed: WARNING! Language without script or locale: ltg. Assuming no script or locale, but this is likely an error.
+Processing lang folder: /data/common/common_crawl/madlad/data/data-v1p5/ln
+WARNING! One of the languages couldn't be processed: WARNING! Language without script or locale: ln. Assuming no script or locale, but this is likely an error.
+Processing lang folder: /data/common/common_crawl/madlad/data/data-v1p5/fil
+WARNING! One of the languages couldn't be processed: WARNING! Language without script or locale: fil. Assuming no script or locale, but this is likely an error.
+Processing lang folder: /data/common/common_crawl/madlad/data/data-v1p5/mak
+WARNING! One of the languages couldn't be processed: WARNING! Language without script or locale: mak. Assuming no script or locale, but this is likely an error.
+Processing lang folder: /data/common/common_crawl/madlad/data/data-v1p5/es
+WARNING! One of the languages couldn't be processed: WARNING! Language without script or locale: es. Assuming no script or locale, but this is likely an error.
+Processing lang folder: /data/common/common_crawl/madlad/data/data-v1p5/gui
+WARNING! One of the languages couldn't be processed: WARNING! Language without script or locale: gui. Assuming no script or locale, but this is likely an error.
+Processing lang folder: /data/common/common_crawl/madlad/data/data-v1p5/yo
+WARNING! One of the languages couldn't be processed: WARNING! Language without script or locale: yo. Assuming no script or locale, but this is likely an error.
+Processing lang folder: /data/common/common_crawl/madlad/data/data-v1p5/kw
+WARNING! One of the languages couldn't be processed: WARNING! Language without script or locale: kw. Assuming no script or locale, but this is likely an error.
+Processing lang folder: /data/common/common_crawl/madlad/data/data-v1p5/pl
+WARNING! One of the languages couldn't be processed: WARNING! Language without script or locale: pl. Assuming no script or locale, but this is likely an error.
+Processing lang folder: /data/common/common_crawl/madlad/data/data-v1p5/mdy
+WARNING! One of the languages couldn't be processed: WARNING! Language without script or locale: mdy. Assuming no script or locale, but this is likely an error.
+Processing lang folder: /data/common/common_crawl/madlad/data/data-v1p5/sjp
+WARNING! One of the languages couldn't be processed: WARNING! Language without script or locale: sjp. Assuming no script or locale, but this is likely an error.
+Processing lang folder: /data/common/common_crawl/madlad/data/data-v1p5/no
+WARNING! One of the languages couldn't be processed: WARNING! Language without script or locale: no. Assuming no script or locale, but this is likely an error.
+Processing lang folder: /data/common/common_crawl/madlad/data/data-v1p5/ne
+WARNING! One of the languages couldn't be processed: WARNING! Language without script or locale: ne. Assuming no script or locale, but this is likely an error.
+Processing lang folder: /data/common/common_crawl/madlad/data/data-v1p5/gl
+WARNING! One of the languages couldn't be processed: WARNING! Language without script or locale: gl. Assuming no script or locale, but this is likely an error.
+Processing lang folder: /data/common/common_crawl/madlad/data/data-v1p5/kaa_Latn
+Processing language: kaa, script: Some("Latn"), locale: None
+Processing clean file: /data/common/common_crawl/madlad/data/data-v1p5/kaa_Latn/clean_docs_v2-00001-of-00010.jsonl.gz_.gstmp
+WARNING! Error reading line in file /data/common/common_crawl/madlad/data/data-v1p5/kaa_Latn/clean_docs_v2-00001-of-00010.jsonl.gz_.gstmp: unexpected end of file
+WARNING! No records found for language: /data/common/common_crawl/madlad/data/data-v1p5/kaa_Latn
+Processing lang folder: /data/common/common_crawl/madlad/data/data-v1p5/rm
+WARNING! One of the languages couldn't be processed: WARNING! Language without script or locale: rm. Assuming no script or locale, but this is likely an error.
+Processing lang folder: /data/common/common_crawl/madlad/data/data-v1p5/dln
+WARNING! One of the languages couldn't be processed: WARNING! Language without script or locale: dln. Assuming no script or locale, but this is likely an error.
+Processing lang folder: /data/common/common_crawl/madlad/data/data-v1p5/bto
+WARNING! One of the languages couldn't be processed: WARNING! Language without script or locale: bto. Assuming no script or locale, but this is likely an error.
+Processing lang folder: /data/common/common_crawl/madlad/data/data-v1p5/zxx_xx_dtynoise
+Processing language: zxx, script: Some("xx"), locale: Some("dtynoise")
+Processing clean file: /data/common/common_crawl/madlad/data/data-v1p5/zxx_xx_dtynoise/clean_docs_v2-00004-of-00010.jsonl.gz
+Processing clean file: /data/common/common_crawl/madlad/data/data-v1p5/zxx_xx_dtynoise/clean_docs_v2-00002-of-00010.jsonl.gz
+Processing clean file: /data/common/common_crawl/madlad/data/data-v1p5/zxx_xx_dtynoise/clean_docs_v2-00009-of-00010.jsonl.gz
+Processing clean file: /data/common/common_crawl/madlad/data/data-v1p5/zxx_xx_dtynoise/clean_docs_v2-00005-of-00010.jsonl.gz
+Processing clean file: /data/common/common_crawl/madlad/data/data-v1p5/zxx_xx_dtynoise/clean_docs_v2-00008-of-00010.jsonl.gz
+Processing clean file: /data/common/common_crawl/madlad/data/data-v1p5/zxx_xx_dtynoise/clean_docs_v2-00006-of-00010.jsonl.gz
+Processing clean file: /data/common/common_crawl/madlad/data/data-v1p5/zxx_xx_dtynoise/clean_docs_v2-00000-of-00010.jsonl.gz
+Processing clean file: /data/common/common_crawl/madlad/data/data-v1p5/zxx_xx_dtynoise/clean_docs_v2-00001-of-00010.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/zxx_xx_dtynoise/noisy_docs_v2-00081-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/zxx_xx_dtynoise/noisy_docs_v2-00094-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/zxx_xx_dtynoise/noisy_docs_v2-00029-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/zxx_xx_dtynoise/noisy_docs_v2-00016-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/zxx_xx_dtynoise/noisy_docs_v2-00145-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/zxx_xx_dtynoise/noisy_docs_v2-00003-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/zxx_xx_dtynoise/noisy_docs_v2-00150-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/zxx_xx_dtynoise/noisy_docs_v2-00022-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/zxx_xx_dtynoise/noisy_docs_v2-00171-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/zxx_xx_dtynoise/noisy_docs_v2-00037-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/zxx_xx_dtynoise/noisy_docs_v2-00164-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/zxx_xx_dtynoise/noisy_docs_v2-00119-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/zxx_xx_dtynoise/noisy_docs_v2-00133-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/zxx_xx_dtynoise/noisy_docs_v2-00060-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/zxx_xx_dtynoise/noisy_docs_v2-00126-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/zxx_xx_dtynoise/noisy_docs_v2-00075-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/zxx_xx_dtynoise/noisy_docs_v2-00107-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/zxx_xx_dtynoise/noisy_docs_v2-00054-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/zxx_xx_dtynoise/noisy_docs_v2-00112-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/zxx_xx_dtynoise/noisy_docs_v2-00041-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/zxx_xx_dtynoise/noisy_docs_v2-00190-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/zxx_xx_dtynoise/noisy_docs_v2-00138-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/zxx_xx_dtynoise/noisy_docs_v2-00185-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/zxx_xx_dtynoise/noisy_docs_v2-00196-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/zxx_xx_dtynoise/noisy_docs_v2-00078-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/zxx_xx_dtynoise/noisy_docs_v2-00183-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/zxx_xx_dtynoise/noisy_docs_v2-00052-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/zxx_xx_dtynoise/noisy_docs_v2-00101-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/zxx_xx_dtynoise/noisy_docs_v2-00047-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/zxx_xx_dtynoise/noisy_docs_v2-00114-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/zxx_xx_dtynoise/noisy_docs_v2-00135-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/zxx_xx_dtynoise/noisy_docs_v2-00188-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/zxx_xx_dtynoise/noisy_docs_v2-00120-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/zxx_xx_dtynoise/noisy_docs_v2-00059-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/zxx_xx_dtynoise/noisy_docs_v2-00148-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/zxx_xx_dtynoise/noisy_docs_v2-00177-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/zxx_xx_dtynoise/noisy_docs_v2-00099-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/zxx_xx_dtynoise/noisy_docs_v2-00024-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/zxx_xx_dtynoise/noisy_docs_v2-00162-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/zxx_xx_dtynoise/noisy_docs_v2-00031-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/zxx_xx_dtynoise/noisy_docs_v2-00143-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/zxx_xx_dtynoise/noisy_docs_v2-00010-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/zxx_xx_dtynoise/noisy_docs_v2-00156-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/zxx_xx_dtynoise/noisy_docs_v2-00087-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/zxx_xx_dtynoise/noisy_docs_v2-00169-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/zxx_xx_dtynoise/noisy_docs_v2-00009-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/zxx_xx_dtynoise/noisy_docs_v2-00170-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/zxx_xx_dtynoise/noisy_docs_v2-00023-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/zxx_xx_dtynoise/noisy_docs_v2-00165-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/zxx_xx_dtynoise/noisy_docs_v2-00036-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/zxx_xx_dtynoise/noisy_docs_v2-00144-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/zxx_xx_dtynoise/noisy_docs_v2-00017-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/zxx_xx_dtynoise/noisy_docs_v2-00151-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/zxx_xx_dtynoise/noisy_docs_v2-00002-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/zxx_xx_dtynoise/noisy_docs_v2-00080-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/zxx_xx_dtynoise/noisy_docs_v2-00095-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/zxx_xx_dtynoise/noisy_docs_v2-00191-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/zxx_xx_dtynoise/noisy_docs_v2-00139-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/zxx_xx_dtynoise/noisy_docs_v2-00184-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/zxx_xx_dtynoise/noisy_docs_v2-00055-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/zxx_xx_dtynoise/noisy_docs_v2-00106-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/zxx_xx_dtynoise/noisy_docs_v2-00040-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/zxx_xx_dtynoise/noisy_docs_v2-00113-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/zxx_xx_dtynoise/noisy_docs_v2-00061-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/zxx_xx_dtynoise/noisy_docs_v2-00132-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/zxx_xx_dtynoise/noisy_docs_v2-00074-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/zxx_xx_dtynoise/noisy_docs_v2-00127-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/zxx_xx_dtynoise/noisy_docs_v2-00118-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/zxx_xx_dtynoise/noisy_docs_v2-00058-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/zxx_xx_dtynoise/noisy_docs_v2-00134-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/zxx_xx_dtynoise/noisy_docs_v2-00189-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/zxx_xx_dtynoise/noisy_docs_v2-00067-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/zxx_xx_dtynoise/noisy_docs_v2-00121-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/zxx_xx_dtynoise/noisy_docs_v2-00072-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/zxx_xx_dtynoise/noisy_docs_v2-00053-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/zxx_xx_dtynoise/noisy_docs_v2-00115-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/zxx_xx_dtynoise/noisy_docs_v2-00079-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/zxx_xx_dtynoise/noisy_docs_v2-00197-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/zxx_xx_dtynoise/noisy_docs_v2-00182-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/zxx_xx_dtynoise/noisy_docs_v2-00168-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/zxx_xx_dtynoise/noisy_docs_v2-00086-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/zxx_xx_dtynoise/noisy_docs_v2-00093-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/zxx_xx_dtynoise/noisy_docs_v2-00142-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/zxx_xx_dtynoise/noisy_docs_v2-00004-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/zxx_xx_dtynoise/noisy_docs_v2-00157-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/zxx_xx_dtynoise/noisy_docs_v2-00098-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/zxx_xx_dtynoise/noisy_docs_v2-00025-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/zxx_xx_dtynoise/noisy_docs_v2-00030-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/zxx_xx_dtynoise/noisy_docs_v2-00163-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/zxx_xx_dtynoise/noisy_docs_v2-00149-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/zxx_xx_dtynoise/noisy_docs_v2-00110-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/zxx_xx_dtynoise/noisy_docs_v2-00043-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/zxx_xx_dtynoise/noisy_docs_v2-00056-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/zxx_xx_dtynoise/noisy_docs_v2-00069-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/zxx_xx_dtynoise/noisy_docs_v2-00187-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/zxx_xx_dtynoise/noisy_docs_v2-00192-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/zxx_xx_dtynoise/noisy_docs_v2-00048-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/zxx_xx_dtynoise/noisy_docs_v2-00199-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/zxx_xx_dtynoise/noisy_docs_v2-00124-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/zxx_xx_dtynoise/noisy_docs_v2-00077-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/zxx_xx_dtynoise/noisy_docs_v2-00131-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/zxx_xx_dtynoise/noisy_docs_v2-00062-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/zxx_xx_dtynoise/noisy_docs_v2-00035-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/zxx_xx_dtynoise/noisy_docs_v2-00166-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/zxx_xx_dtynoise/noisy_docs_v2-00020-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/zxx_xx_dtynoise/noisy_docs_v2-00173-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/zxx_xx_dtynoise/noisy_docs_v2-00159-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/zxx_xx_dtynoise/noisy_docs_v2-00096-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/zxx_xx_dtynoise/noisy_docs_v2-00083-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/zxx_xx_dtynoise/noisy_docs_v2-00001-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/zxx_xx_dtynoise/noisy_docs_v2-00152-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/zxx_xx_dtynoise/noisy_docs_v2-00014-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/zxx_xx_dtynoise/noisy_docs_v2-00147-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/zxx_xx_dtynoise/noisy_docs_v2-00154-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/zxx_xx_dtynoise/noisy_docs_v2-00007-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/zxx_xx_dtynoise/noisy_docs_v2-00141-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/zxx_xx_dtynoise/noisy_docs_v2-00012-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/zxx_xx_dtynoise/noisy_docs_v2-00090-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/zxx_xx_dtynoise/noisy_docs_v2-00038-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/zxx_xx_dtynoise/noisy_docs_v2-00085-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/zxx_xx_dtynoise/noisy_docs_v2-00019-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/zxx_xx_dtynoise/noisy_docs_v2-00033-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/zxx_xx_dtynoise/noisy_docs_v2-00175-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/zxx_xx_dtynoise/noisy_docs_v2-00026-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/zxx_xx_dtynoise/noisy_docs_v2-00071-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/zxx_xx_dtynoise/noisy_docs_v2-00122-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/zxx_xx_dtynoise/noisy_docs_v2-00064-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/zxx_xx_dtynoise/noisy_docs_v2-00137-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/zxx_xx_dtynoise/noisy_docs_v2-00108-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/zxx_xx_dtynoise/noisy_docs_v2-00181-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/zxx_xx_dtynoise/noisy_docs_v2-00194-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/zxx_xx_dtynoise/noisy_docs_v2-00129-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/zxx_xx_dtynoise/noisy_docs_v2-00045-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/zxx_xx_dtynoise/noisy_docs_v2-00116-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/zxx_xx_dtynoise/noisy_docs_v2-00050-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/zxx_xx_dtynoise/noisy_docs_v2-00103-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/zxx_xx_dtynoise/noisy_docs_v2-00076-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/zxx_xx_dtynoise/noisy_docs_v2-00198-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/zxx_xx_dtynoise/noisy_docs_v2-00125-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/zxx_xx_dtynoise/noisy_docs_v2-00063-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/zxx_xx_dtynoise/noisy_docs_v2-00130-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/zxx_xx_dtynoise/noisy_docs_v2-00049-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/zxx_xx_dtynoise/noisy_docs_v2-00186-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/zxx_xx_dtynoise/noisy_docs_v2-00068-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/zxx_xx_dtynoise/noisy_docs_v2-00042-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/zxx_xx_dtynoise/noisy_docs_v2-00111-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/zxx_xx_dtynoise/noisy_docs_v2-00057-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/zxx_xx_dtynoise/noisy_docs_v2-00104-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/zxx_xx_dtynoise/noisy_docs_v2-00153-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/zxx_xx_dtynoise/noisy_docs_v2-00000-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/zxx_xx_dtynoise/noisy_docs_v2-00146-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/zxx_xx_dtynoise/noisy_docs_v2-00015-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/zxx_xx_dtynoise/noisy_docs_v2-00097-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/zxx_xx_dtynoise/noisy_docs_v2-00179-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/zxx_xx_dtynoise/noisy_docs_v2-00158-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/zxx_xx_dtynoise/noisy_docs_v2-00167-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/zxx_xx_dtynoise/noisy_docs_v2-00034-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/zxx_xx_dtynoise/noisy_docs_v2-00089-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/zxx_xx_dtynoise/noisy_docs_v2-00172-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/zxx_xx_dtynoise/noisy_docs_v2-00021-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/zxx_xx_dtynoise/noisy_docs_v2-00032-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/zxx_xx_dtynoise/noisy_docs_v2-00161-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/zxx_xx_dtynoise/noisy_docs_v2-00027-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/zxx_xx_dtynoise/noisy_docs_v2-00174-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/zxx_xx_dtynoise/noisy_docs_v2-00018-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/zxx_xx_dtynoise/noisy_docs_v2-00091-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/zxx_xx_dtynoise/noisy_docs_v2-00039-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/zxx_xx_dtynoise/noisy_docs_v2-00084-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/zxx_xx_dtynoise/noisy_docs_v2-00006-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/zxx_xx_dtynoise/noisy_docs_v2-00155-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/zxx_xx_dtynoise/noisy_docs_v2-00013-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/zxx_xx_dtynoise/noisy_docs_v2-00140-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/zxx_xx_dtynoise/noisy_docs_v2-00117-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/zxx_xx_dtynoise/noisy_docs_v2-00044-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/zxx_xx_dtynoise/noisy_docs_v2-00051-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/zxx_xx_dtynoise/noisy_docs_v2-00180-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/zxx_xx_dtynoise/noisy_docs_v2-00195-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/zxx_xx_dtynoise/noisy_docs_v2-00128-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/zxx_xx_dtynoise/noisy_docs_v2-00109-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/zxx_xx_dtynoise/noisy_docs_v2-00123-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/zxx_xx_dtynoise/noisy_docs_v2-00070-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/zxx_xx_dtynoise/noisy_docs_v2-00136-of-00200.jsonl.gz
+Processing noisy file: /data/common/common_crawl/madlad/data/data-v1p5/zxx_xx_dtynoise/noisy_docs_v2-00065-of-00200.jsonl.gz
+Processing lang folder: /data/common/common_crawl/madlad/data/data-v1p5/ckb
+WARNING! One of the languages couldn't be processed: WARNING! Language without script or locale: ckb. Assuming no script or locale, but this is likely an error.
+Processing lang folder: /data/common/common_crawl/madlad/data/data-v1p5/cbk
+WARNING! One of the languages couldn't be processed: WARNING! Language without script or locale: cbk. Assuming no script or locale, but this is likely an error.
+Processing lang folder: /data/common/common_crawl/madlad/data/data-v1p5/bhb_Gujr
+Processing language: bhb, script: Some("Gujr"), locale: None
+Processing clean file: /data/common/common_crawl/madlad/data/data-v1p5/bhb_Gujr/clean_docs_v2-00008-of-00010.jsonl.gz
+Processing clean file: /data/common/common_crawl/madlad/data/data-v1p5/bhb_Gujr/clean_docs_v2-00009-of-00010.jsonl.gz
+Processing clean file: /data/common/common_crawl/madlad/data/data-v1p5/bhb_Gujr/clean_docs_v2-00007-of-00010.jsonl.gz
+Processing clean file: /data/common/common_crawl/madlad/data/data-v1p5/bhb_Gujr/clean_docs_v2-00006-of-00010.jsonl.gz
+Processing lang folder: /data/common/common_crawl/madlad/data/data-v1p5/luz
+WARNING! One of the languages couldn't be processed: WARNING! Language without script or locale: luz. Assuming no script or locale, but this is likely an error.
+Processing lang folder: /data/common/common_crawl/madlad/data/data-v1p5/ms
+WARNING! One of the languages couldn't be processed: WARNING! Language without script or locale: ms. Assuming no script or locale, but this is likely an error.
+Processing lang folder: /data/common/common_crawl/madlad/data/data-v1p5/my
+WARNING! One of the languages couldn't be processed: WARNING! Language without script or locale: my. Assuming no script or locale, but this is likely an error.
+Processing lang folder: /data/common/common_crawl/madlad/data/data-v1p5/suz
+WARNING! One of the languages couldn't be processed: WARNING! Language without script or locale: suz. Assuming no script or locale, but this is likely an error.
