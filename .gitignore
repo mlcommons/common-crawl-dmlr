@@ -43,3 +43,4 @@ Cargo.lock
 # Project specific
 test-data/
 test-schemas/
+spiritual-data-reader/final_data/
