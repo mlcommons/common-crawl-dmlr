@@ -44,3 +44,5 @@ Cargo.lock
 test-data/
 test-schemas/
 spiritual-data-reader/final_data/
+web-data-cleaner/Texts_labeled-20-aug.json
+web-data-cleaner/Common_LID.tsv.gz
