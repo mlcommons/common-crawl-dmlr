@@ -1,5 +1,5 @@
 use std::{
-    fs::{File, read_to_string},
+    fs::{read_to_string, File},
     io::{BufRead, BufReader},
     path::PathBuf,
 };
@@ -8,8 +8,8 @@ use clap::Parser;
 
 use crate::cli::Commands;
 
-mod annotations;
 mod cli;
+mod schemas;
 
 fn process_file(src: PathBuf, dst: PathBuf) {
     let file = read_to_string(src).unwrap();
